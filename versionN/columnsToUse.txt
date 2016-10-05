@@ -1,0 +1,37 @@
+'China', 
+'Dist', 
+'Distributor', 
+'Domestic_gross', 
+'Domestic_percentage',      
+'Intr_gross', 
+'Intr_percentage', 
+'Japan', 
+'Movie', 
+'MpaaRating',  
+'ProdBudget', 
+'Russia - CIS', 
+'United Kingdom', 
+'UsDist', 
+'UsRelease',
+'WW_gross',
+'movie', 
+'updatedGenre', 
+'China_percentage',
+'Russia_percentage',
+'UK_percentage', 
+'Japan_percentage',
+'Budget_percentage'
+
+'Distributor','Domestic_percentage','Intr_percentage','MpaaRating','WW_gross','updatedGenre','China_percentage','Russia_percentage','UK_percentage', 'Japan_percentage','Budget_percentage'
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 589 entries, 0 to 588
+Columns: 127 entries, Distributor to Western
+dtypes: float64(124), int64(1), object(2)
+memory usage: 584.4+ KB
+Out[147]:
+Index(['Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Crime Thriller',
+       'Documentary', 'Drama', 'Family', 'Fantasy', 'Foreign', 'Horror',
+       'Musical', 'R', 'Romance', 'Romantic Thriller', 'Sci-Fi',
+       'Sci-Fi Fantasy', 'Sci-Fi Thriller', 'Thriller', 'Western'],
+      dtype='object')

@@ -1,0 +1,590 @@
+,China,Distributor,Domestic_gross,Domestic_percentage,Intr_gross,Intr_percentage,Japan,Movie,Russia - CIS,United Kingdom,UsDist,UsRelease,WW_gross,dummy2,movie,updatedGenre
+0,124159138.0,BV,936700000.0,45.3,1131600000.0,54.7,97862640.0,Star Wars: The Force Awakens,25952440.0,182474597.0,Buena Vista,2015-12-18,2068200000.0,,starwars7,Sci-Fi Fantasy
+1,228740000.0,Uni.,652300000.0,39.0,1018100000.0,61.0,74593781.0,Jurassic World,23420356.0,99669369.0,Universal,2015-06-12,1670400000.0,,jurassicpark4,Horror
+2,390910000.0,Uni.,353000000.0,23.3,1163000000.0,76.7,30810953.0,Furious 7,34016389.0,59927904.0,Universal,2015-04-03,1516000000.0,,fast7,Action
+3,240110000.0,BV,459000000.0,32.7,946400000.0,67.3,26373434.0,Avengers: Age of Ultron,34319424.0,76623201.0,Buena Vista,2015-05-01,1405400000.0,,avengers2,Action
+4,68490000.0,Uni.,336000000.0,29.0,823400000.0,71.0,42726353.0,Minions,30015860.0,72674232.0,"July 10, 2015",,1159400000.0,,minions,
+5,83509789.0,Sony,200100000.0,22.7,680600000.0,77.3,24231095.0,Spectre,11584933.0,135461629.0,Sony / Columbia,2015-11-06,880700000.0,,bond24,Action
+6,15314000.0,BV,356500000.0,41.6,501000000.0,58.4,32500000.0,Inside Out,16710083.0,59436933.0,"June 19, 2015",,857400000.0,,pixar2014,
+7,135653541.0,Par.,195000000.0,28.6,487300000.0,71.4,42091079.0,Mission: Impossible - Rogue Nation,9940870.0,31936699.0,Paramount,2015-07-31,682300000.0,,mi5,Action
+8,21525450.0,LGF,281700000.0,43.1,371700000.0,56.9,1225393.0,The Hunger Games: Mockingjay - Part 2,10161646.0,43154684.0,Lionsgate,2015-11-20,653400000.0,,hungergames4,Action
+9,94932731.0,Fox,228400000.0,36.2,401700000.0,63.8,26943966.0,The Martian,17706103.0,33937841.0,Fox,2015-10-02,630200000.0,,scott2016,Sci-Fi
+10,,Uni.,166200000.0,29.1,404800000.0,70.9,3622898.0,Fifty Shades of Grey,17659358.0,51603774.0,"February 13, 2015",,571000000.0,,fiftyshadesofgrey,
+11,71570000.0,BV,201200000.0,37.0,342400000.0,63.0,47180932.0,Cinderella (2015),11464091.0,32842481.0,Buena Vista,2015-03-13,543500000.0,,cinderella2015,Fantasy
+12,58684119.0,Fox,183600000.0,34.5,349300000.0,65.5,5467020.0,The Revenant,16193801.0,32888019.0,Fox,2015-12-25,533000000.0,,revenant,Action
+13,105370038.0,BV,180200000.0,34.7,339200000.0,65.3,9670913.0,Ant-Man,11500000.0,25190193.0,Buena Vista,2015-07-17,519400000.0,,antman,Action
+14,103190000.0,WB,155200000.0,32.7,318800000.0,67.3,2354281.0,San Andreas,10094957.0,17630829.0,Warner Bros.,2015-05-29,474000000.0,,sanandreas,Action
+15,18701176.0,Sony,169700000.0,35.9,303500000.0,64.1,127816.0,Hotel Transylvania 2,15885694.0,29832652.0,"September 25, 2015",,473200000.0,,hoteltransylvania2,
+16,113175898.0,Par.,89800000.0,20.4,350800000.0,79.6,22134005.0,Terminator: Genisys,20132059.0,16984618.0,Paramount,2015-07-01,440600000.0,,terminator2015,Action
+17,74667000.0,Fox,128300000.0,31.0,286100000.0,69.0,7487071.0,Kingsman: The Secret Service,12622305.0,24160744.0,Fox,2015-02-13,414400000.0,,secretservice,Action
+18,27700000.0,Fox,177400000.0,46.0,208600000.0,54.0,,Home (2015),17533046.0,38895218.0,"March 27, 2015",,386000000.0,,happysmekday,
+19,,WB,153600000.0,40.6,224800000.0,59.4,12792143.0,Mad Max: Fury Road,12488915.0,27107031.0,Warner Bros.,2015-05-15,378400000.0,,furyroad,Action
+20,,BV,123100000.0,37.1,208800000.0,62.9,14923467.0,The Good Dinosaur,4689486.0,21333175.0,Buena Vista,2015-11-25,331900000.0,,pixar2013,Animation
+21,32200000.0,Fox,89300000.0,27.3,237200000.0,72.7,4144522.0,Taken 3,3002623.0,26894435.0,Fox,2015-01-09,326500000.0,,taken3,Action
+22,8762372.0,Par.,163000000.0,50.4,160400000.0,49.6,212445.0,The SpongeBob Movie: Sponge Out of Water,8862353.0,11898007.0,"February 6, 2015",,323400000.0,,spongebob2,
+23,29575097.0,Fox,81700000.0,26.2,230600000.0,73.8,3382867.0,Maze Runner: The Scorch Trials,8901034.0,13288343.0,Fox,2015-09-18,312300000.0,,mazerunner2,Action
+24,18039876.0,LG/S,130200000.0,43.8,167100000.0,56.2,,The Divergent Series: Insurgent,9498595.0,11869289.0,Lionsgate/Summit,2015-03-20,297300000.0,,insurgent,Action
+25,,Uni.,184300000.0,64.1,103200000.0,35.9,,Pitch Perfect 2,249581.0,27259230.0,Universal,2015-05-15,287500000.0,,pitchperfect2,Comedy
+26,15620000.0,W/Dim.,76300000.0,29.4,183300000.0,70.6,5717886.0,Paddington,6470072.0,55921233.0,"January 16, 2015",,259600000.00000003,,paddington,
+27,255747040.0,WGUSA,1200000.0,0.5,258100000.00000003,99.5,,Mojin: The Lost Legend,,,Well Go USA,2015-12-18,259400000.0,,mojinthelostlegend,Action
+28,253590000.0,WGUSA,1300000.0,0.5,255000000.0,99.5,,Lost in Hong Kong,,129556.0,Well Go USA,2015-09-25,256300000.0,,lostinhongkong,Comedy
+29,5702428.0,Fox,130200000.0,52.9,116100000.0,47.1,5170243.0,The Peanuts Movie,1400596.0,13886795.0,"November 6, 2015",,246200000.0,,peanuts2015,
+30,15300000.0,Sony,78700000.0,32.2,166100000.0,67.8,8685971.0,Pixels,5247942.0,12800000.0,"July 24, 2015",,244900000.0,,pixels,
+31,,Par.,150400000.0,62.6,90000000.0,37.4,,Daddy's Home,2079885.0,24287482.0,Paramount,2015-12-25,240400000.0,,daddyshome,Comedy
+32,,Fox,110800000.0,47.0,124800000.0,53.0,,Spy,7916829.0,14990584.0,Fox,2015-06-05,235700000.0,,susancooper,Comedy
+33,9582624.0,Fox,85900000.0,36.6,148900000.0,63.4,,Alvin and the Chipmunks: The Road Chip,3147988.0,23908156.0,"December 18, 2015",,234800000.0,,alvin4,
+34,,Uni.,81500000.0,37.6,135200000.0,62.4,20153761.0,Ted 2,6391928.0,15248242.0,Universal,2015-06-26,216700000.0,,ted2,Comedy
+35,19240000.0,BV,93400000.0,44.7,115700000.0,55.3,10255853.0,Tomorrowland,7164018.0,7740556.0,Buena Vista,2015-05-22,209200000.0,,1952,Sci-Fi
+36,15446746.0,Uni.,43500000.0,21.4,159900000.0,78.6,6133397.0,Everest (2015),10483022.0,15794142.0,"September 18, 2015",,203400000.0,,everest2015,
+37,,Uni.,161200000.0,79.9,40400000.0,20.1,166982.0,Straight Outta Compton,147425.0,12216965.0,Universal,2015-08-14,201600000.0,,straightouttacompton,Drama
+38,,WB,75800000.0,38.9,118800000.0,61.1,14015444.0,The Intern,4434498.0,4121679.0,Warner Bros.,2015-09-25,194600000.0,,intern,Comedy
+39,44620000.0,WB,47400000.0,25.8,136600000.0,74.2,1060714.0,Jupiter Ascending,10023110.0,6551281.0,"February 6, 2015",,184000000.0,,jupiterascending,
+40,,WB,109800000.0,63.2,63800000.0,36.8,361418.0,Creed,795358.0,8246569.0,Warner Bros.,2015-11-25,173600000.0,,creed,Drama
+41,,Fox,56100000.0,33.4,111900000.0,66.6,2503040.0,Fantastic Four,,8878507.0,Fox,2015-08-07,168000000.0,,fantasticfour15,Action
+42,,BV,72300000.0,43.7,93200000.0,56.3,5517223.0,Bridge of Spies,2058944.0,11044990.0,Buena Vista,2015-10-16,165500000.0,,coldwar2015,Thriller
+43,,Wein.,54100000.0,34.7,101600000.0,65.3,319938.0,The Hateful Eight,6430209.0,10425114.0,Weinstein Company,2015-12-25,155800000.0,,thehatefuleight,Western
+44,,Sony,80100000.0,53.3,70100000.0,46.7,,Goosebumps,2501244.0,13086846.0,"October 16, 2015",,150200000.0,,goosebumps,
+45,,Uni.,110200000.0,78.3,30600000.0,21.7,,Trainwreck,1015875.0,4348352.0,"July 17, 2015",,140800000.0,,trainwreck15,
+46,27404245.0,LG/S,27400000.0,19.5,113000000.0,80.5,,The Last Witch Hunter,8795912.0,4133544.0,Lionsgate/Summit,2015-10-23,140400000.0,,lastwitchhunter,Action
+47,137268153.0,CL,1400000.0,1.0,137800000.0,99.0,,Mr. Six,,30585.0,China Lion,2015-12-24,139200000.0,,mrsix,Action
+48,39403259.0,WB,28800000.0,21.5,104900000.0,78.5,5235103.0,Point Break (2015),6036343.0,1231394.0,"December 25, 2015",,133700000.0,,pointbreak2015,
+49,,Par.,70300000.0,52.7,63100000.0,47.3,4532159.0,The Big Short,1482656.0,7624380.0,Paramount,2015-12-11,133300000.0,,bigshort,Drama
+50,3450000.0,WB,35100000.0,27.3,93300000.0,72.7,5359655.0,Pan,4038817.0,13446907.0,"October 9, 2015",,128400000.0,,pan,
+51,110460000.0,Sony,211000.0,0.2,125600000.0,99.8,,Wolf Totem,,,Sony / Columbia,2015-09-11,125800000.0,,wolftotem,Adventure
+52,116790000.0,LGP,74100.0,0.1,121500000.0,99.9,,Dragon Blade,,253.0,Lionsgate Premiere,2015-09-04,121500000.0,,dragonblade,Action
+53,27560000.0,Uni.,17200000.0,15.1,97000000.0,84.9,,Seventh Son,14920399.0,1200723.0,Universal,2015-02-06,114200000.0,,seventhson,Fantasy
+54,,Focus,52200000.0,46.2,60800000.0,53.8,,Insidious Chapter 3,5848011.0,6104425.0,Focus Features,2015-06-05,113000000.0,,insidiouschapter3,Horror
+55,,WB,90400000.0,80.9,21400000.0,19.1,,Get Hard,,7930891.0,Warner Bros.,2015-03-27,111800000.0,,gethard,Comedy
+56,,WB,45400000.0,41.4,64400000.00000001,58.6,4236529.0,The Man From U.N.C.L.E.,9094917.0,9756904.0,Warner Bros.,2015-08-14,109800000.0,,uncle,Action
+57,,Sony,71000000.0,66.0,36600000.0,34.0,,Paul Blart: Mall Cop 2,,2195452.0,"April 17, 2015",,107600000.0,,paulblart2,
+58,8713376.0,LGF,19400000.0,18.3,86700000.0,81.7,4552326.0,Shaun the Sheep Movie,1272828.0,21952598.0,"August 5, 2015",,106000000.0,,shaunthesheep,
+59,,Uni.,87000000.0,82.9,18000000.0,17.1,,Sisters,235403.0,3979713.0,Universal,2015-12-18,105000000.0,,nest,Comedy
+60,,WB (NL),58900000.0,56.1,46000000.0,43.9,,Vacation,5003576.0,2088954.0,Warner Bros. (New Line),2015-07-29,104900000.0,,newline15,Comedy
+61,16400000.0,Sony,31600000.0,30.9,70500000.0,69.1,2754461.0,Chappie,7905167.0,3542889.0,Sony / Columbia,2015-03-06,102100000.0,,chappie,Action
+62,,Fox,56500000.0,55.8,44700000.0,44.2,,Joy,543431.0,6850975.0,Fox,2015-12-25,101100000.0,,joy,Comedy
+63,,WB,62600000.0,62.7,37200000.0,37.3,3308549.0,Black Mass,2113906.0,4723639.0,Warner Bros.,2015-09-18,99800000.0,,whiteybulger15,Drama
+64,98465197.0,CL,131000.0,0.1,98500000.0,99.9,,Devil and Angel (E Gun Tian Shi),,,China Lion,2015-12-31,98600000.0,,devilandangel,Comedy
+65,,Uni.,65200000.0,66.2,33200000.000000004,33.8,,The Visit,627317.0,3130052.0,Universal,2015-09-11,98500000.0,,blumhouse2015,Horror
+66,,Fox,47400000.0,49.7,48000000.0,50.3,,Poltergeist (2015),2983766.0,5943288.0,Fox,2015-05-22,95400000.0,,poltergeist2015,Horror
+67,,WB,25000000.0,26.6,68900000.0,73.4,1789219.0,In the Heart of the Sea,4220368.0,3789875.0,Warner Bros.,2015-12-11,93900000.0,,heartofthesea,Drama
+68,,Wein.,52400000.0,57.0,39500000.0,43.0,,Southpaw,722893.0,12283085.0,Weinstein Company,2015-07-24,92000000.0,,southpaw2015,Drama
+69,,ORF,45100000.0,51.0,43300000.0,49.0,1879216.0,Spotlight,155767.0,8417624.0,Open Road Films,2015-11-06,88300000.0,,spotlight,Drama
+70,,FoxS,33100000.0,38.5,52900000.0,61.5,,The Second Best Exotic Marigold Hotel,439590.0,23064109.0,Fox Searchlight,2015-03-06,86000000.0,,bestexotic2,Comedy
+71,,Fox,32000000.0,37.4,53500000.0,62.6,,Paper Towns,870146.0,5242976.0,Fox,2015-07-24,85500000.0,,papertowns,Drama
+72,,LGF,46900000.0,55.3,38000000.0,44.7,1040057.0,Sicario,340772.0,7236353.0,Lionsgate,2015-09-18,84900000.0,,sicario,Drama
+73,,Fox,22500000.0,27.3,59900000.0,72.7,,Hitman: Agent 47,3599611.0,2919916.0,Fox,2015-08-21,82300000.0,,hitman47,Action
+74,,SGem,64500000.0,80.8,15300000.0,19.2,,The Wedding Ringer,,3189135.0,Sony / Screen Gems,2015-01-16,79800000.0,,kevinhart15,Comedy
+75,,Par.,18300000.0,23.4,59800000.0,76.6,,Paranormal Activity: The Ghost Dimension,3099546.0,5864894.0,Paramount,2015-10-23,78100000.0,,paranormalactivity2014,Horror
+76,,Uni.,31100000.0,41.6,43600000.0,58.4,,Crimson Peak,4783752.0,3604199.0,Universal,2015-10-16,74700000.0,,crimsonpeak,Horror
+77,18344558.0,EC,16000000.0,22.1,56600000.0,77.9,3099616.0,The Transporter Refueled,3203133.0,534832.0,EuropaCorp,2015-09-04,72600000.0,,transporter4,Action
+78,,WB,26500000.0,36.9,45200000.0,63.1,1292719.0,Run All Night,980224.0,3033411.0,Warner Bros.,2015-03-13,71700000.0,,runallnight,Action
+79,,TriS,67800000.0,100.0,,0.0,113666.0,War Room,,,TriStar,2015-08-28,67800000.0,,warroom2015,Drama
+80,,LGF,42600000.0,64.9,23000000.0,35.1,,The Age of Adaline,833317.0,1689799.0,Lionsgate,2015-04-24,65700000.0,,ageofadaline,Drama
+81,,Focus,11100000.0,17.3,53100000.0,82.7,1127038.0,The Danish Girl,229798.0,10832500.0,Focus Features,2015-11-27,64200000.0,,danishgirl,Drama
+82,,Uni.,32500000.0,50.7,31600000.0,49.3,,Unfriended,1549511.0,5146449.0,Universal,2015-04-17,64099999.99999999,,cybernatural,Horror
+83,,Fox,37400000.0,59.5,25500000.0,40.5,,The Longest Ride,410268.0,1558766.0,Fox,2015-04-10,62900000.0,,thelongestride,Romance
+84,,FUN,8000000.0,13.0,53800000.0,87.0,,Dragon Ball Z: Resurrection 'F',,168560.0,FUNimation Films,2015-08-04,61800000.0,,dragonballzresurrectionoff,Animation
+85,,Wein.,33300000.0,54.1,28300000.0,45.9,1251653.0,Woman in Gold,,3878626.0,Weinstein Company,2015-04-01,61600000.0,,womaningold,Drama
+86,,Uni.,42700000.0,69.4,18800000.0,30.6,,Krampus,1006802.0,1764715.0,Universal,2015-12-04,61500000.0,,krampus,Comedy
+87,13773172.0,TriS,10100000.0,16.6,51000000.0,83.4,2434973.0,The Walk,5024536.0,1922084.0,TriStar,2015-09-30,61200000.0,,clouds2015,Adventure
+88,,SGem,57000000.0,94.6,3200000.0,5.4,,The Perfect Guy,,342500.0,Sony / Screen Gems,2015-09-11,60300000.0,,perfectguy,Thriller
+89,,STX,43800000.0,74.2,15200000.0,25.8,,The Gift (2015),750373.0,2268314.0,STX Entertainment,2015-08-07,59000000.0,,blumhousejuly2015,Thriller
+90,,Wein.,27300000.0,50.1,27100000.0,49.9,,No Escape,52060.0,1875129.0,Weinstein Company,2015-08-26,54400000.0,,coup,Action
+91,,Focus,27700000.0,52.5,25100000.0,47.5,,Sinister 2,2335537.0,4838437.0,Focus Features,2015-08-21,52900000.0,,sinister2,Horror
+92,,FIP,4400000.0,8.3,48200000.0,91.7,,Prem Ratan Dhan Payo,,2290181.0,FIP,2015-11-12,52600000.0,,premratandhanpayo,Musical
+93,,Uni.,35400000.0,67.6,17000000.0,32.4,,The Boy Next Door,939603.0,1229883.0,Universal,2015-01-23,52400000.0,,boynextdoor,Thriller
+94,,Sony,43000000.0,82.2,9300000.0,17.8,,The Night Before,,950963.0,Sony / Columbia,2015-11-20,52400000.0,,xmas2015,Comedy
+95,,WB,34600000.0,66.9,17100000.0,33.1,,Hot Pursuit,1678657.0,1097359.0,Warner Bros.,2015-05-08,51700000.0,,witherspoonvergara,Comedy
+96,,MBox,944000.0,1.8,50200000.0,98.2,,The 100-Year Old Man Who Climbed Out the Window and Disappeared,,631050.0,Music Box Films,2015-05-01,51100000.0,,100yearoldman,Foreign
+97,,CJ,697000.0,1.4,49800000.0,98.6,,The Himalayas,,,CJ Entertainment,2015-12-18,50500000.0,,thehimalayas,Drama
+98,,WB,32400000.0,65.7,16900000.0,34.3,,Entourage,812514.0,2278311.0,Warner Bros.,2015-06-03,49300000.0,,entourage,Comedy
+99,,Rela.,26500000.0,54.2,22400000.0,45.8,,The Woman in Black 2: Angel of Death,1673304.0,7371544.0,Relativity,2015-01-02,48900000.0,,womaninblack2,Horror
+100,,Sony,34500000.0,71.0,14100000.0,29.0,,Concussion (2015),,162499.0,Sony / Columbia,2015-12-25,48600000.0,,concussion2015,Drama
+101,3530000.0,LGF,7700000.0,16.3,39600000.0,83.7,6217852.0,Mortdecai,,727292.0,Lionsgate,2015-01-23,47300000.0,,mortdecai,Comedy
+102,46000000.0,SPC,378000.0,0.8,46400000.0,99.2,,Coming Home (2015),,,Sony Classics,2015-09-09,46800000.0,,cominghome2014,Foreign
+103,,BV,44500000.0,97.3,1200000.0,2.7,,"McFarland, USA",,19401.0,Buena Vista,2015-02-20,45700000.0,,mcfarland,Drama
+104,,WB,42700000.0,97.0,1300000.0,3.0,,Max (2015),,,"June 26, 2015",,44000000.0,,max2015,
+105,,SPC,18800000.0,42.7,25100000.0,57.3,2087069.0,Still Alice,,3482413.0,Sony Classics,2015-01-16,43900000.0,,stillalice,Drama
+106,,Uni.,1900000.0,4.4,41100000.0,95.6,,Legend,2106160.0,27960112.0,"November 20, 2015",,43000000.0,,legend16,
+107,,WB,22800000.0,53.0,20200000.0,47.0,,The Gallows,1371164.0,1165784.0,Warner Bros.,2015-07-10,43000000.0,,newlinehorror2015,Horror
+108,,LGF,26300000.0,62.0,16100000.000000002,38.0,,Love the Coopers,405472.0,2910763.0,Lionsgate,2015-11-13,42400000.0,,lovethecoopers,Comedy
+109,,SPC,10000000.0,24.2,31400000.0,75.8,,The Lady in the Van,,19105150.0,"December 4, 2015",,41400000.0,,ladyinthevan,
+110,,TriS,26800000.0,64.9,14500000.0,35.1,260768.0,Ricki and the Flash,150726.0,334055.0,TriStar,2015-08-07,41300000.0,,rickiandtheflash,Comedy
+111,,Wein.,12700000.0,31.6,27600000.0,68.4,1003366.0,Carol,204240.0,3976888.0,"November 20, 2015",,40300000.0,,carol,
+112,,A24,25400000.0,69.0,11400000.0,31.0,,Ex Machina,,3816953.0,A24,2015-04-10,36900000.0,,exmachina,Sci-Fi Thriller
+113,,Wein.,13700000.0,37.3,23000000.0,62.7,,Burnt,900646.0,1611291.0,Weinstein Company,2015-10-30,36600000.0,,adamjones,Comedy
+114,,BG,29500000.0,82.0,6500000.0,18.0,,A Walk in the Woods,,980596.0,Broad Green Pictures,2015-09-02,36000000.0,,walkinthewoods,Comedy
+115,,A24,14700000.0,41.5,20700000.0,58.5,1620378.0,Room,,4418834.0,A24,2015-10-16,35400000.0,,room2015,Drama
+116,,Uni.,17800000.0,51.6,16700000.0,48.4,268658.0,Steve Jobs,381236.0,3377030.0,Universal,2015-10-09,34400000.0,,jobs2015,Drama
+117,,Fox,5800000.0,16.9,28500000.0,83.1,,Victor Frankenstein,3205055.0,1395831.0,Fox,2015-11-25,34200000.0,,frankenstein2014,Drama
+118,,Par.,22300000.0,67.3,10900000.0,32.7,,Project Almanac,1648348.0,1799878.0,Paramount,2015-01-30,33200000.000000004,,almanac,Sci-Fi
+119,5400980.0,Focus,12300000.0,40.2,18200000.0,59.8,,Self/Less,2610078.0,336045.0,Focus Features,2015-07-10,30500000.0,,selfless,Sci-Fi Thriller
+120,,FoxS,12200000.0,40.5,18000000.0,59.5,,Far from the Madding Crowd,105418.0,8767667.0,Fox Searchlight,2015-05-01,30200000.0,,maddingcrowd,Drama
+121,,RAtt.,12600000.0,43.8,16100000.000000002,56.2,,Love & Mercy,,164156.0,Roadside Attractions,2015-06-05,28600000.0,,loveandmercy,Drama
+122,,SPC,4000000.0,14.7,23400000.0,85.3,,Irrational Man,732001.0,638508.0,Sony Classics,2015-07-17,27400000.0,,irrationalman,Comedy
+123,3010322.0,LGF,14400000.0,53.2,12700000.0,46.8,,American Ultra,2135533.0,982216.0,Lionsgate,2015-08-21,27100000.0,,americanultra,Comedy
+124,,SPC,3100000.0,11.5,23900000.0,88.5,258761.0,Wild Tales,334439.0,613979.0,Sony Classics,2015-02-20,27000000.0,,wildtales,Foreign
+125,,Sony,21100000.0,80.3,5200000.0,19.7,,Aloha,,,Sony / Columbia,2015-05-29,26300000.0,,crowe2014,Comedy
+126,3449490.0,WB,12200000.0,49.1,12700000.0,50.9,,The 33,,37342.0,Warner Bros.,2015-11-13,24900000.0,,33,Drama
+127,,ORF,10700000.0,44.1,13500000.0,55.9,265917.0,The Gunman,296588.0,1363276.0,Open Road Films,2015-03-20,24200000.0,,gunman2015,Thriller
+128,80120000.0,CL,287000.0,1.3,21500000.0,98.7,,Go Away Mr. Tumor,,,China Lion,2015-08-14,21800000.0,,goawaymrtumor,Comedy
+129,,Rela.,21600000.0,100.0,,0.0,,Black or White,,,Relativity,2015-01-30,21600000.0,,blackorwhite,Drama
+130,,Uni.,8000000.0,40.7,11600000.0,59.3,,Blackhat,836826.0,226802.0,Universal,2015-01-16,19700000.0,,mann2015,Thriller
+131,,ORF,17500000.0,97.3,480000.0,2.7,,Dope,,,Open Road Films,2015-06-19,18000000.0,,dope,Comedy
+132,,FIP,614000.0,3.4,17200000.0,96.6,,Brothers: Blood Against Blood,,222902.0,FIP,2015-08-14,17900000.0,,brothersbloodagainstblood,Drama
+133,,A24,7600000.0,43.9,9700000.0,56.1,,While We're Young,,1816785.0,A24,2015-03-27,17300000.0,,whilewereyoung,Comedy
+134,,BV,16399999.999999998,95.9,711000.0,4.1,,Monkey Kingdom,,,Buena Vista,2015-04-17,17100000.0,,monkeykingdom,Documentary
+135,,Wein.,1100000.0,6.8,15200000.0,93.2,,Macbeth (2015),552940.0,4339629.0,Weinstein Company,2015-12-04,16300000.0,,macbeth15,Drama
+136,,Focus,4700000.0,29.4,11300000.0,70.6,,Suffragette,,14074045.0,Focus Features,2015-10-23,16000000.0,,suffragette,Drama
+137,,Par.,3700000.0,24.9,11200000.0,75.1,,Scouts Guide to the Zombie Apocalypse,491354.0,819197.0,"October 30, 2015",,14900000.0,,scoutsvszombies,
+138,,RTWC,14700000.0,100.0,,0.0,,It Follows,312931.0,1561728.0,Radius-TWC,2015-03-13,14700000.0,,itfollows,Horror
+139,,Fox,10200000.0,70.8,4200000.0,29.2,,Unfinished Business,604515.0,1057035.0,Fox,2015-03-06,14400000.0,,vaughn14,Comedy
+140,,PFR,14400000.0,100.0,,0.0,,Woodlawn,,,Pure Flix,2015-10-16,14400000.0,,woodlawn,Drama
+141,,BV,12400000.0,91.4,1200000.0,8.6,,Strange Magic,,,Buena Vista,2015-01-23,13600000.0,,strangemagic,Animation
+142,,Par.,12300000.0,94.1,767000.0,5.9,,Hot Tub Time Machine 2,374043.0,132158.0,Paramount,2015-02-20,13100000.0,,hottub2,Comedy
+143,,PFR,13000000.0,100.0,,0.0,,Do You Believe?,,,Pure Flix,2015-03-20,13000000.0,,doyoubelieve,Drama
+144,,LG/S,1200000.0,9.5,11700000.0,90.5,,Child 44,,2078131.0,Lionsgate/Summit,2015-04-17,13000000.0,,child44,Drama
+145,,WB,3600000.0,32.3,7500000.0,67.7,,We Are Your Friends,,835025.0,Warner Bros.,2015-08-28,11100000.0,,weareyourfriends,Drama
+146,18710000.0,WGUSA,130000.0,1.3,10000000.0,98.7,,Kung Fu Killer,,,Well Go USA,2015-04-24,10100000.0,,kungfukiller,Action
+147,,Focus,558000.0,5.5,9500000.0,94.5,,A Little Chaos,,1545193.0,Focus Features,2015-06-26,10100000.0,,alittlechaos,Drama
+148,,ORF,6000000.0,59.6,4100000.0,40.4,,The Loft,646959.0,,Open Road Films,2015-01-30,10100000.0,,loft,Thriller
+149,,Wein.,174000.0,1.8,9300000.0,98.2,132869.0,The Young & Prodigious T.S. Spivet,,138298.0,Weinstein Company,2015-07-31,9500000.0,,theyoungprodigioustsspivet,Adventure
+150,,FoxS,6800000.0,74.5,2300000.0,25.5,,Me and Earl and the Dying Girl,,1126638.0,Fox Searchlight,2015-06-12,9100000.0,,meandearl,Drama
+151,,A24,8400000.0,100.0,,0.0,,Amy,101555.0,5737984.0,A24,2015-07-03,8400000.0,,amy,Documentary
+152,,Par.,6700.0,0.1,8300000.000000001,99.9,,Capture the Flag,43265.0,2211858.0,Paramount,2015-12-04,8300000.000000001,,capturetheflag,Animation
+153,,FIP,522000.0,6.3,7800000.0,93.7,,Shaandaar,,253906.0,FIP,2015-10-22,8300000.000000001,,shaandaar,Comedy
+154,,BST,7900000.0,95.4,378000.0,4.6,,Trumbo (2015),56733.0,211949.0,"November 6, 2015",,8199999.999999999,,trumbo2015,
+155,,Eros,8199999.999999999,100.0,,0.0,,Bajrangi Bhaijaan,,3699383.0,Eros,2015-07-17,8199999.999999999,,bajrangibhaijaan,Drama
+156,,BST,7400000.0,100.0,,0.0,,I'll See You In My Dreams,,2831.0,Bleecker Street,2015-05-15,7400000.0,,dreams15,Comedy
+157,,HTR,7200000.0,100.0,,0.0,,The Green Inferno,3836651.0,,High Top Releasing,2015-09-25,7200000.0,,greeninferno,Horror
+158,,SPC,7000000.0,98.5,107000.0,1.5,,Grandma (2015),,54711.0,Sony Classics,2015-08-21,7100000.0,,grandma2015,Comedy
+159,,WB,7000000.0,100.0,,0.0,,Our Brand Is Crisis (2015),,39556.0,Warner Bros.,2015-10-30,7000000.0,,ourbrandiscrisis20115,Comedy
+160,,Eros,6600000.0,100.0,,0.0,,Bajirao Mastani,,1929856.0,Eros,2015-12-18,6600000.0,,bajiraomastani,Drama
+161,,ORF,6500000.0,100.0,,0.0,,Little Boy,,,"April 24, 2015",,6500000.0,,littleboy,
+162,,U/P,3500000.0,55.4,2800000.0,44.6,,What We Do in the Shadows,247242.0,200108.0,Unison/Paladin,2015-02-13,6300000.0,,whatwedointheshadows,Comedy
+163,,BST,5600000.0,100.0,,0.0,,Danny Collins,105885.0,720695.0,Bleecker Street,2015-03-20,5600000.0,,dannycollins,Comedy
+164,,Magn.,176000.0,3.5,4900000.0,96.5,,Serena,1391814.0,320907.0,Magnolia,2015-03-27,5100000.0,,serena,Drama
+165,,UTV,4900000.0,100.0,,0.0,,Dilwale,,3173604.0,UTV Communications,2015-12-17,4900000.0,,diwale,Comedy
+166,,FCW,17500.0,0.4,4800000.0,99.6,,Trash,,,Focus World,2015-10-09,4800000.0,,trash,Comedy
+167,,FoxS,4700000.0,100.0,,0.0,,True Story,,214608.0,Fox Searchlight,2015-04-17,4700000.0,,truestory,Drama
+168,,FIP,154000.0,3.3,4500000.0,96.7,,"Buen Dia, Ramon",,,FIP,2015-01-30,4600000.0,,buendiaramon,Foreign
+169,,TFA,20400.0,0.5,4400000.0,99.5,,"Love, Rosie",805943.0,1888461.0,The Film Arcade,2015-02-06,4400000.0,,loverosie,Comedy
+170,,FIP,235000.0,5.3,4200000.0,94.7,,Hamari Adhuri Kahani,,136565.0,FIP,2015-06-12,4400000.0,,hamariadhurikahani,Drama
+171,,IFC,4200000.0,100.0,,0.0,,45 Years,8365.0,2632138.0,IFC,2015-12-23,4200000.0,,45years,Drama
+172,,Par.,3800000.0,100.0,,0.0,,Anomalisa,,321379.0,Paramount,2015-12-30,3800000.0,,anomalisa,Animation
+173,,RTWC,196000.0,5.2,3600000.0,94.8,,Escobar: Paradise Lost,,,Radius-TWC,2015-06-26,3800000.0,,paradiselost2014,Romantic Thriller
+174,,LGF,3600000.0,100.0,,0.0,,Spare Parts,,,Lionsgate,2015-01-16,3600000.0,,spareparts,Family
+175,,BG,3400000.0,100.0,,0.0,,Learning to Drive,,45596.0,Broad Green Pictures,2015-08-21,3400000.0,,learningtodrive,Comedy
+176,,Uni.,538000.0,16.1,2800000.0,83.9,,By the Sea,208984.0,37732.0,Universal,2015-11-13,3300000.0,,bythesea,Drama
+177,,IFC,819000.0,25.5,2400000.0,74.5,,Sleeping with Other People,24346.0,15030.0,IFC,2015-09-11,3200000.0,,sleepingwithotherpeople,Comedy
+178,,IFC,3200000.0,100.0,,0.0,,Phoenix (2015),,58634.0,IFC,2015-07-24,3200000.0,,phoenix2015,Foreign
+179,,SPC,561000.0,17.7,2600000.0,82.3,,Jimmy's Hall,,834030.0,Sony Classics,2015-07-03,3200000.0,,jimmyshall,Drama
+180,,Eros,3000000.0,100.0,,0.0,,Tanu Weds Manu Returns,,638315.0,Eros,2015-05-22,3000000.0,,tanuwedsmanureturns,Comedy
+181,,ORF,3000000.0,100.0,,0.0,,Rock The Kasbah,19498.0,5509.0,Open Road Films,2015-10-23,3000000.0,,rockthekasbah,Comedy
+182,,A24,3000000.0,100.0,,0.0,,The End of the Tour,,,A24,2015-07-31,3000000.0,,endofthetour,Drama
+183,,Par.,2600000.0,92.2,218000.0,7.8,,Captive (2015),,79328.0,Paramount,2015-09-18,2800000.0,,captive2015,Thriller
+184,,FoxS,2700000.0,96.5,97100.0,3.5,,He Named Me Malala,,154159.0,Fox Searchlight,2015-10-02,2800000.0,,malala,Documentary
+185,,FoxS,2700000.0,100.0,,0.0,,Youth,503557.0,1367668.0,Fox Searchlight,2015-12-04,2700000.0,,youth,Drama
+186,,SPC,2500000.0,100.0,,0.0,,Truth,,38000.0,Sony Classics,2015-10-16,2500000.0,,truth,Drama
+187,,FoxS,2500000.0,100.0,,0.0,,Mistress America,,257789.0,Fox Searchlight,2015-08-14,2500000.0,,mistressamerica,Comedy
+188,,Uni.,2200000.0,93.6,149000.0,6.4,,Jem and the Holograms,,12869.0,Universal,2015-10-23,2300000.0,,jemandtheholograms,Musical
+189,,MBox,54000.0,2.4,2200000.0,97.6,,Beloved Sisters,,,Music Box Films,2015-01-09,2200000.0,,belovedsisters,Foreign
+190,,IFC,7700.0,0.4,2100000.0,99.6,,The Riot Club,,2525772.0,IFC,2015-03-27,2100000.0,,riotclub,Drama
+191,,UTV,2100000.0,100.0,,0.0,,Tamasha,,663313.0,UTV Communications,2015-11-25,2100000.0,,tamasha,Comedy
+192,,CLF,2000000.0,100.0,,0.0,,Cake,,,Cinelou Films,2015-01-23,2000000.0,,cake,Drama
+193,6730000.0,WGUSA,1900000.0,100.0,,0.0,,Assassination (2015),,,Well Go USA,2015-08-07,1900000.0,,assassination15,Drama
+194,,IFC,1900000.0,100.0,,0.0,,Clouds of Sils Maria,,,IFC,2015-04-10,1900000.0,,cloudsofsilsmaria,Drama
+195,,SPC,1800000.0,100.0,,0.0,,Testament of Youth,,2877384.0,Sony Classics,2015-06-05,1800000.0,,testamentofyouth,Drama
+196,,Yash,1800000.0,100.0,,0.0,,Piku,,369261.0,Yash Raj,2015-05-08,1800000.0,,piku,Comedy
+197,,LGF,1800000.0,100.0,,0.0,,The Vatican Tapes,990769.0,201.0,Lionsgate,2015-07-24,1800000.0,,vaticantapes,Horror
+198,,SPC,1800000.0,100.0,,0.0,,Son of Saul,27776.0,484104.0,Sony Classics,2015-12-18,1800000.0,,sonofsaul,Drama
+199,,FR,410000.0,25.2,1200000.0,74.8,,Janis: Little Girl Blue,,144510.0,FilmRise,2015-11-27,1600000.0,,janislittlegirlblue,Documentary
+200,,RAtt.,1300000.0,78.2,355000.0,21.8,,'71,,1567094.0,Roadside Attractions,2015-02-27,1600000.0,,71,Drama
+201,,SPC,1500000.0,100.0,,0.0,,The Diary of a Teenage Girl,,125845.0,Sony Classics,2015-08-07,1500000.0,,diaryofateenagegirl,Drama
+202,,AaF,1400000.0,100.0,,0.0,,I (2015),,,Aascar Film,2015-01-13,1400000.0,,i2015,Foreign
+203,,SPC,1400000.0,100.0,,0.0,,Infinitely Polar Bear,,,Sony Classics,2015-06-19,1400000.0,,infinitelypolarbear,Comedy
+204,,BG,1400000.0,100.0,,0.0,,99 Homes,,57837.0,Broad Green Pictures,2015-09-25,1400000.0,,99homes,Thriller
+205,,Eros,1400000.0,100.0,,0.0,,Welcome Back,,319996.0,Eros,2015-09-04,1400000.0,,welcomeback,Action
+206,,EOne,547000.0,40.5,802000.0,59.5,,Remember,24800.0,3075.0,Entertainment One,2015-10-16,1300000.0,,remembercanada,Drama
+207,,SPC,1300000.0,100.0,,0.0,,The Salt of the Earth,62990.0,,Sony Classics,2015-03-27,1300000.0,,saltoftheearth,Documentary
+208,,Focus,351000.0,26.2,988000.0,73.8,,Maps to the Stars,111553.0,599795.0,Focus Features,2015-02-27,1300000.0,,mapstothestars,Drama
+209,,Magn.,1300000.0,100.0,,0.0,,Iris (2015),,,Magnolia,2015-04-29,1300000.0,,iris2015,Documentary
+210,,Magn.,1300000.0,100.0,,0.0,,The Wolfpack,,,Magnolia,2015-06-12,1300000.0,,wolfpack,Documentary
+211,,CJ,1200000.0,100.0,,0.0,,Veteran,,,CJ Entertainment,2015-09-18,1200000.0,,veteran2015,Comedy
+212,,RTWC,1200000.0,100.0,,0.0,,Goodnight Mommy,,18437.0,Radius-TWC,2015-09-11,1200000.0,,goodnightmommy,Horror
+213,,Focus,1200000.0,100.0,,0.0,,Black Sea,260024.0,384042.0,Focus Features,2015-01-23,1200000.0,,blacksea,Thriller
+214,,RAtt.,1200000.0,100.0,,0.0,,Miss You Already,,2215536.0,Roadside Attractions,2015-11-06,1200000.0,,missyoualready,Drama
+215,,Orch.,704000.0,62.5,422000.0,37.5,,Cartel Land,,103971.0,The Orchard,2015-07-03,1100000.0,,cartelland,Documentary
+216,,Cohen,1100000.0,100.0,,0.0,,Timbuktu,,,Cohen Media Group,2015-01-28,1100000.0,,timbuktu,Foreign
+217,,Orch.,1000000.0,100.0,,0.0,,Dior and I,,,The Orchard,2015-04-10,1000000.0,,diorandi,Documentary
+218,,Focus,1000000.0,100.0,,0.0,,5 Flights Up,,,Focus Features,2015-05-08,1000000.0,,5flightsup,Drama
+219,,MBox,988000.0,100.0,,0.0,,Gett: The Trial of Viviane Amsalem,,,Music Box Films,2015-02-13,988000.0,,gett,Foreign
+220,15392640.0,Elev.,920000.0,100.0,,0.0,,Boruto: Naruto the Movie,,,Eleven Arts,2015-10-10,920000.0,,borutonarutothemovie,Animation
+221,,Eros,919000.0,100.0,,0.0,,Singh is Bling,,539272.0,Eros,2015-10-02,919000.0,,singhisbliing,Comedy
+222,,UTV,892000.0,100.0,,0.0,,ABCD (Any Body Can Dance) 2,,182501.0,UTV Communications,2015-06-19,892000.0,,abcd2,Musical
+223,,Cohen,845000.0,100.0,,0.0,,Mustang,7100.0,93425.0,Cohen Media Group,2015-11-20,845000.0,,mustang,Drama
+224,,SPC,794000.0,100.0,,0.0,,Labyrinth of Lies,,,Sony Classics,2015-09-30,794000.0,,labyrinthoflies,Foreign
+225,,IFC,673000.0,86.9,102000.0,13.1,,The D Train,,13233.0,IFC,2015-05-08,775000.0,,dtrain,Comedy
+226,,Magn.,702000.0,100.0,,0.0,,Tangerine,,28376.0,Magnolia,2015-07-10,702000.0,,tangerine,Comedy
+227,,SPC,695000.0,100.0,,0.0,,Red Army,,9792.0,Sony Classics,2015-01-23,695000.0,,redarmy,Documentary
+228,,IFC,661000.0,100.0,,0.0,,The Stanford Prison Experiment,,2553.0,IFC,2015-07-17,661000.0,,stanfordprison,Thriller
+229,9400000.0,WGUSA,633000.0,100.0,,0.0,,The Assassin,,109213.0,Well Go USA,2015-10-16,633000.0,,theassassin,Drama
+230,,Ampl.,623000.0,100.0,,0.0,,"Kumiko, The Treasure Hunter",,,Amplify,2015-03-18,623000.0,,kumiko,Comedy
+231,,Alc,609000.0,100.0,,0.0,,Welcome to Me,,2242.0,Alchemy,2015-05-01,609000.0,,welcometome,Comedy
+232,,Yash,579000.0,100.0,,0.0,,Detective Byomkesh Bakshy,,,Yash Raj,2015-04-03,579000.0,,detectivebyomkeshbakshy,Thriller
+233,,LGF,573000.0,100.0,,0.0,,Freeheld,8622.0,18245.0,Lionsgate,2015-10-02,573000.0,,freeheld,Drama
+234,,GK,561000.0,100.0,,0.0,33068148.0,When Marnie Was There,,141697.0,GKIDS,2015-05-22,561000.0,,whenmarniewasthere,Animation
+235,,Eros,535000.0,100.0,,0.0,,Gabbar is Back,,307651.0,Eros,2015-05-01,535000.0,,gabbarisback,Foreign
+236,,Elev.,524000.0,100.0,,0.0,,The Last - Naruto the Movie,428849.0,,Eleven Arts,2015-02-20,524000.0,,lastnaruto,Animation
+237,,SD,498000.0,100.0,,0.0,,Peggy Guggenheim Art Addict,,136416.0,"November 6, 2015",,498000.0,,peggyguggenheimartaddict,
+238,,UTV,490000.0,100.0,,0.0,,Phantom (2015),,,UTV Communications,2015-08-28,490000.0,,phantom15,Drama
+239,45160000.0,CL,482000.0,100.0,,0.0,,Somewhere Only We Know,,,China Lion,2015-02-13,482000.0,,somewhereonlyweknow,Foreign
+240,45420000.0,CL,463000.0,100.0,,0.0,,Let's Get Married,,,China Lion,2015-04-03,463000.0,,letsgetmarried,Foreign
+241,,FIP,451000.0,100.0,,0.0,,Bombay Velvet,,145195.0,FIP,2015-05-15,451000.0,,bombayvelvet,Drama
+242,,FUN,450000.0,100.0,,0.0,25786343.0,Attack on Titan: Part 1,302422.0,,FUNimation Films,2015-09-30,450000.0,,attackontitanpart1,Animation
+243,,SPC,429000.0,100.0,,0.0,,Saint Laurent,,,Sony Classics,2015-05-08,429000.0,,saintlaurent,Foreign
+244,,SHO,426000.0,100.0,,0.0,,Listen to Me Marlon,,70558.0,Showtime,2015-07-29,426000.0,,listentomemarlon,Documentary
+245,,Abr.,421000.0,100.0,,0.0,,Heart of a Dog,6166.0,23430.0,"October 21, 2015",,421000.0,,heartofadog,
+246,33461140.0,CL,418000.0,100.0,,0.0,,The Witness (Wo shi zheng ren),,,"October 30, 2015",,418000.0,,woshizhengren,
+247,,Osci.,377000.0,100.0,,0.0,,The Second Mother,,,Oscilloscope Pictures,2015-08-28,377000.0,,thesecondmother,Foreign
+248,,UTV,365000.0,100.0,,0.0,,Katti Batti,,155502.0,UTV Communications,2015-09-18,365000.0,,kattibatti,Comedy
+249,,GK,355000.0,100.0,,0.0,,Kahlil Gibran's The Prophet,,,GKIDS,2015-08-07,355000.0,,theprophet,Animation
+250,,Asp.,347000.0,100.0,,0.0,,Noble,,4388.0,Aspiration Media,2015-05-08,347000.0,,noble,Drama
+251,,WGUSA,338000.0,100.0,,0.0,,Northern Limit Line,,,Well Go USA,2015-07-17,338000.0,,northernlimitline,Drama
+252,,Eros,325000.0,100.0,,0.0,,Shamitabh,,,Eros,2015-02-06,325000.0,,shamitabh,Foreign
+253,,KL,322000.0,100.0,,0.0,,Jafar Panahi's Taxi,7852.0,43041.0,Kino Lorber,2015-10-02,322000.0,,taxitehran,Drama
+254,,IFC,316000.0,100.0,,0.0,,Good Kill,,,IFC,2015-05-15,316000.0,,goodkill,Drama
+255,68450000.0,CL,311000.0,100.0,,0.0,,Running Man (2015),,,China Lion,2015-01-30,311000.0,,runningman2015,Foreign
+256,,FM,283000.0,100.0,,0.0,,Theeb,,74035.0,Film Movement,2015-11-06,283000.0,,theeb,Adventure
+257,,Magn.,282000.0,100.0,,0.0,,White God,,,Magnolia,2015-03-27,282000.0,,whitegod,Foreign
+258,,Strand,282000.0,100.0,,0.0,,A Borrowed Identity,,,Strand,2015-06-26,282000.0,,aborrowedidentity,Drama
+259,,Cohen,260000.0,100.0,,0.0,,Hitchcock/Truffaut,17736.0,33571.0,Cohen Media Group,2015-12-02,260000.0,,hitchcocktruffaut,Documentary
+260,,Alc,249000.0,100.0,,0.0,,Love (2015),,65829.0,Alchemy,2015-10-30,249000.0,,lovenoe,Drama
+261,,Eros,236000.0,100.0,,0.0,,Tevar,,,Eros,2015-01-09,236000.0,,tevar,Foreign
+262,59010000.0,CJ,235000.0,100.0,,0.0,,20 Once Again,,,CJ Entertainment,2015-01-16,235000.0,,20onceagain,Foreign
+263,,A24,229000.0,100.0,,0.0,,Slow West,16153.0,559614.0,A24,2015-05-20,229000.0,,slowwest,Action
+264,141020000.0,WGUSA,229000.0,100.0,,0.0,,The Taking of Tiger Mountain,,,Well Go USA,2015-01-02,229000.0,,takingoftigermountain,Action
+265,,ADC,228000.0,100.0,,0.0,,A Royal Night Out,,1590567.0,Atlas Distribution,2015-12-04,228000.0,,aroyalnightout,Drama
+266,,Magn.,223000.0,100.0,,0.0,,A Pigeon Sat on a Branch Reflecting on Existence,62641.0,,Magnolia,2015-06-03,223000.0,,pigeon,Comedy
+267,22640355.0,CL,213000.0,100.0,,0.0,,Fall in Love Like a Star,,,China Lion,2015-12-04,213000.0,,fallinlovelikeastar,Romance
+268,,A24,209000.0,100.0,,0.0,,Dark Places,,892.0,A24,2015-08-07,209000.0,,darkplaces,Drama
+269,,MBox,192000.0,100.0,,0.0,,Gemma Bovery,,,Music Box Films,2015-05-29,192000.0,,gemmabovary,Comedy
+270,,Drft.,191000.0,100.0,,0.0,,The Connection,40555.0,,Drafthouse,2015-05-15,191000.0,,connection2015,Foreign
+271,34180000.0,CL,189000.0,100.0,,0.0,,Love and Lost (Shi Gu),,,China Lion,2015-03-20,189000.0,,loveandlost,Foreign
+272,,RAtt.,188000.0,100.0,,0.0,,Stonewall (2015),,,Roadside Attractions,2015-09-25,188000.0,,stonewall15,Drama
+273,,RAtt.,187000.0,100.0,,0.0,,Maggie,,,Roadside Attractions,2015-05-08,187000.0,,maggie,Drama
+274,,CJ,185000.0,100.0,,0.0,,The Priests,,,CJ Entertainment,2015-11-26,185000.0,,thepriests,Crime
+275,,Gold.,173000.0,100.0,,0.0,,The Farewell Party,,,Samuel Goldwyn,2015-05-22,173000.0,,farewellparty,Foreign
+276,,Gold.,172000.0,100.0,,0.0,,A Brilliant Young Mind,,,Samuel Goldwyn,2015-09-11,172000.0,,abrilliantyoungmind,Comedy
+277,63620000.0,WGUSA,165000.0,100.0,,0.0,,Snow Girl and the Dark Crystal,,,Well Go USA,2015-02-27,165000.0,,snowgirl,Foreign
+278,,CJ,164000.0,100.0,,0.0,,C'Est Si Bon,,,CJ Entertainment,2015-02-13,164000.0,,cestsibon,Foreign
+279,6066913.0,CL,163000.0,100.0,,0.0,,The Last Women Standing,,,China Lion,2015-11-11,163000.0,,thelastwomenstanding,Comedy
+280,,IFC,163000.0,100.0,,0.0,,5 to 7,120909.0,,IFC,2015-04-03,163000.0,,5to7,Romance
+281,,FM,159000.0,100.0,,0.0,,Human Capital,,,Film Movement,2015-01-09,159000.0,,humancapital,Foreign
+282,,Magn.,156000.0,100.0,,0.0,,Experimenter,,,Magnolia,2015-10-16,156000.0,,experimenter,Drama
+283,,Rela.,155000.0,100.0,,0.0,,Desert Dancer,14002.0,2873.0,Relativity,2015-04-10,155000.0,,desertdancer,Drama
+284,,BG,152000.0,100.0,,0.0,,Samba,250872.0,,Broad Green Pictures,2015-07-24,152000.0,,samba,Foreign
+285,,Drft.,151000.0,100.0,,0.0,,The Tribe,,,Drafthouse,2015-06-17,151000.0,,tribe2015,Foreign
+286,59750000.0,CL,150000.0,100.0,,0.0,,Forever Young (2015),,,China Lion,2015-07-10,150000.0,,foreveryoung15,Romance
+287,,Cohen,147000.0,100.0,,0.0,,The New Girlfriend,,147363.0,Cohen Media Group,2015-09-18,147000.0,,newgirlfriend,Drama
+288,,Gold.,145000.0,100.0,,0.0,,Tangerines,,10419.0,Samuel Goldwyn,2015-04-17,145000.0,,tangerines,Foreign
+289,,IFC,143000.0,100.0,,0.0,,Manglehorn,,,IFC,2015-06-19,143000.0,,manglehorn,Drama
+290,,Rialto,138000.0,100.0,,0.0,,Ingrid Bergman: In Her Own Words,,,Rialto,2015-11-13,138000.0,,ingridbergman,Documentary
+291,,CJ,136000.0,100.0,,0.0,,Twenty (2015),,,CJ Entertainment,2015-04-17,136000.0,,twenty2015,Foreign
+292,6195984.0,CL,127000.0,100.0,,0.0,,A Journey Through Time with Anthony,,,China Lion,2015-11-18,127000.0,,ajourneythroughtimewithanthony,Drama
+293,,SM,126000.0,100.0,,0.0,,Boulevard,,,Starz Media,2015-07-10,126000.0,,boulevard,Drama
+294,,RAtt.,121000.0,100.0,,0.0,,Z for Zachariah,,,Roadside Attractions,2015-08-28,121000.0,,zforzachariah,Drama
+295,,IFC,119000.0,100.0,,0.0,,Do I Sound Gay?,,3207.0,IFC,2015-07-10,119000.0,,doisoundgay,Documentary
+296,,AZ,116000.0,100.0,,0.0,20716540.0,Love Live! The School Idol Movie,,,Azoland,2015-09-11,116000.0,,loveliveschoolidolmovie,Animation
+297,,LGP,112000.0,100.0,,0.0,,She's Funny That Way,822108.0,,Lionsgate Premiere,2015-08-21,112000.0,,shesfunnythatway,Comedy
+298,,Drft.,109000.0,100.0,,0.0,,The Look of Silence,,,Drafthouse,2015-07-17,109000.0,,lookofsilence,Documentary
+299,,WGUSA,108000.0,100.0,,0.0,,The Beauty Inside,,,Well Go USA,2015-09-11,108000.0,,thebeautyinside,Drama
+300,,CJ,105000.0,100.0,,0.0,,The Chronicles of Evil,,,CJ Entertainment,2015-05-15,105000.0,,thechroniclesofevil,Crime Thriller
+301,,SM,104000.0,100.0,,0.0,,Every Secret Thing,,,Starz Media,2015-05-15,104000.0,,everysecretthing,Drama
+302,,Alc,101000.0,100.0,,0.0,,Black Souls (Anime Nere),,2985.0,Alchemy,2015-04-10,101000.0,,blacksouls(animenere),Drama
+303,,Jan.,96600.0,100.0,,0.0,,A Poem Is a Naked Person (2015 re-issue),,183.0,Janus Films,2015-07-01,96600.0,,apoemisanakedperson,Documentary
+304,30350000.0,UEP,92700.0,100.0,,0.0,,Saving Mr. Wu,,,United Entertainment Partners,2015-10-02,92700.0,,savingmrwu,Action
+305,,Rialto,91900.0,100.0,,0.0,,The Tales of Hoffmann (2015 re-issue),,,Rialto,2015-03-13,91900.0,,talesofhoffman,Musical
+306,,IFC,91200.0,100.0,,0.0,,Queen of Earth,,3965.0,IFC,2015-08-26,91200.0,,queenofearth,Drama
+307,,Eros,88700.0,100.0,,0.0,37473829.0,Hero (2015),,,Eros,2015-09-11,88700.0,,hero2015,Drama
+308,,RTWC,80700.0,100.0,,0.0,,Heaven Knows What,,1326.0,Radius-TWC,2015-05-29,80700.0,,heavenknowswhat,Drama
+309,,Orch.,79800.0,100.0,,0.0,,Nasty Baby,,972.0,The Orchard,2015-10-23,79800.0,,nastybaby,Drama
+310,,Osci.,73400.0,100.0,,0.0,,The Wonders,,,Oscilloscope Pictures,2015-10-30,73400.0,,thewonders,Drama
+311,1830000.0,VE,68400.0,100.0,,0.0,,Predestination,429630.0,,Vertical Entertainment,2015-01-09,68400.0,,predestination,Action
+312,,TFA,67000.0,100.0,,0.0,,People Places Things,,,The Film Arcade,2015-08-14,67000.0,,peopleplacesthings,Comedy
+313,,BG,65500.0,100.0,,0.0,,Eden,,,Broad Green Pictures,2015-06-19,65500.0,,eden,Foreign
+314,,IFC,64500.0,100.0,,0.0,,The Duke of Burgundy,,66493.0,IFC,2015-01-23,64500.0,,dukeofburgundy,Thriller
+315,7400000.0,CL,63700.0,100.0,,0.0,,The Office,,,China Lion,2015-09-18,63700.0,,office2015,Musical
+316,,Strand,60800.0,100.0,,0.0,,Girlhood (2015),,,Strand,2015-01-30,60800.0,,girlhood2015,Foreign
+317,,CGld,60200.0,100.0,,0.0,,Jauja,,,Cinema Guild,2015-03-20,60200.0,,jauja,Foreign
+318,,BG,58700.0,100.0,,0.0,,I Smile Back,,,Broad Green Pictures,2015-10-23,58700.0,,ismileback,Drama
+319,,CJ,50200.0,100.0,,0.0,,The Advocate: A Missing Body,,,CJ Entertainment,2015-10-23,50200.0,,advocateamissingbody,Crime
+320,,TA,49700.0,100.0,,0.0,,Difret,,,Truth Aid,2015-10-23,49700.0,,difret,Drama
+321,,Grav.,46900.0,100.0,,0.0,,Appropriate Behavior,,76787.0,Gravitas Ventures,2015-01-16,46900.0,,appropriatebehavior,Comedy
+322,,RAtt.,45900.0,100.0,,0.0,,Beyond the Reach,167404.0,,Roadside Attractions,2015-04-17,45900.0,,beyondthereach,Drama
+323,,IFC,44900.0,100.0,,0.0,,The Salvation,53031.0,57240.0,IFC,2015-02-27,44900.0,,salvation,Western
+324,,MR,42900.0,100.0,,0.0,,Charlie's Country,,,Monument Releasing,2015-06-05,42900.0,,charliescountry,Foreign
+325,,KL,42200.0,100.0,,0.0,,Pearl Button,,19203.0,Kino Lorber,2015-10-23,42200.0,,pearlbutton,Documentary
+326,,BBC,41300.0,100.0,,0.0,,Queen and Country,,,BBC Worldwide North America,2015-02-18,41300.0,,queenandcountry,Drama
+327,,Gold.,38300.0,100.0,,0.0,,Lila & Eve,,,Samuel Goldwyn,2015-07-17,38300.0,,lilaandeve,Drama
+328,,RTWC,37200.0,100.0,,0.0,,Before We Go,,,Radius-TWC,2015-09-04,37200.0,,beforewego,Comedy
+329,,Distrib.,37100.0,100.0,,0.0,,The Mafia Only Kills in Summer,,1047.0,Distrib Films,2015-03-06,37100.0,,mafiakills,Foreign
+330,,LGP,36300.0,100.0,,0.0,,Knock Knock,482921.0,735021.0,Lionsgate Premiere,2015-10-09,36300.0,,knockknock,Horror
+331,,KL,36200.0,100.0,,0.0,,Kindergarten Teacher,,,Kino Lorber,2015-07-31,36200.0,,kindergartenteacher,Drama
+332,,FRun,36000.0,100.0,,0.0,,Welcome to Leith,,370.0,First Run,2015-09-09,36000.0,,welcometoleith,Documentary
+333,23670000.0,WGUSA,34900.0,100.0,,0.0,,Wild City,,,Well Go USA,2015-07-31,34900.0,,wildcity,Action
+334,,TFA,32300.0,100.0,,0.0,,Song One,,,The Film Arcade,2015-01-23,32300.0,,songone,Drama
+335,,CFilms,31500.0,100.0,,0.0,,"Out 1, noli me tangere",,6204.0,Carlotta Films,2015-11-06,31500.0,,out1nolimetangere,Drama
+336,,Part.,30400.0,100.0,,0.0,,"3 1/2 Minutes, 10 Bullets",,8856.0,Participant Media,2015-06-19,30400.0,,3minutes10bullets,Documentary
+337,,Cohen,29500.0,100.0,,0.0,,Paulette,37614.0,,Cohen Media Group,2015-08-14,29500.0,,paulette,Comedy
+338,,Strand,28100.0,100.0,,0.0,,The Cut,135711.0,,Strand,2015-09-18,28100.0,,thecut,Drama
+339,,Drft.,27200.0,100.0,,0.0,,The Keeping Room,,38793.0,Drafthouse,2015-09-25,27200.0,,keepingroom,Drama
+340,,EC,24600.0,100.0,,0.0,,Big Game,317818.0,1376191.0,EuropaCorp,2015-06-26,24600.0,,biggame,Action
+341,,Distrib.,23100.0,100.0,,0.0,,"Hippocrates, Diary of a French Doctor",,,Distrib Films,2015-06-19,23100.0,,hippocratesdiaryofafrenchdoctor,Drama
+342,,CJ,22500.0,100.0,,0.0,,Salut D'Amour,,,CJ Entertainment,2015-04-10,22500.0,,salutdamour,Foreign
+343,,Magn.,21100.0,100.0,,0.0,,Noma - My Perfect Storm,,,Magnolia,2015-12-18,21100.0,,nomamyperfectstorm,Documentary
+344,,Magn.,18200.0,100.0,,0.0,,The Little Death,,,Magnolia,2015-06-26,18200.0,,littledeath,Comedy
+345,,CJ,18000.0,100.0,,0.0,,Gangnam 1970,,,CJ Entertainment,2015-02-06,18000.0,,gangnam1970,Action
+346,,IFC,17700.0,100.0,,0.0,,Mediterranea,,,IFC,2015-11-20,17700.0,,mediterranea,Drama
+347,,Alc,17500.0,100.0,,0.0,,Strangerland,22881.0,3363.0,Alchemy,2015-07-10,17500.0,,strangerland,Drama
+348,,FRun,16800.0,100.0,,0.0,,Eastern Boys,,,First Run,2015-02-27,16800.0,,easternboys,Foreign
+349,,LGP,16800.0,100.0,,0.0,,Extraction,12722.0,,Lionsgate Premiere,2015-12-18,16800.0,,extraction,Thriller
+350,,Wein.,16700.0,100.0,,0.0,,Eva,10218.0,,Weinstein Company,2015-03-13,16700.0,,eva,Foreign
+351,,Drft.,16600.0,100.0,,0.0,6440852.0,The World of Kanako,,,Drafthouse,2015-12-04,16600.0,,worldofkanako,Thriller
+352,,Free,14900.0,100.0,,0.0,,Zombeavers,,,Freestyle Releasing,2015-03-20,14900.0,,zombeavers,Comedy
+353,,IFC,13900.0,100.0,,0.0,,The Hallow,140422.0,144981.0,IFC,2015-11-06,13900.0,,thehallow,Horror
+354,,FM,13700.0,100.0,,0.0,,Amour Fou,,,Film Movement,2015-03-18,13700.0,,amourfou,Foreign
+355,,KL,12300.0,100.0,,0.0,,Arabian Nights: Volume 1 - The Restless One,,6201.0,Kino Lorber,2015-12-04,12300.0,,arabiannightsvol1,Drama
+356,,FM,11700.0,100.0,,0.0,,Marie's Story,,,Film Movement,2015-05-01,11700.0,,mariesstory,Foreign
+357,,KL,11000.0,100.0,,0.0,,1001 Grams,,,Kino Lorber,2015-05-08,11000.0,,1001grams,Drama
+358,,CJ,10700.0,100.0,,0.0,,Empire of Lust,,,CJ Entertainment,2015-03-06,10700.0,,empireoflust,Foreign
+359,,FOR,10200.0,100.0,,0.0,,The Forecaster,,,Autlook Films,2015-03-27,10200.0,,theforecaster,Documentary
+360,,Trib.,9500.0,100.0,,0.0,,Still Life (2015),,,Tribeca Film,2015-01-16,9500.0,,stilllife2015,Comedy
+361,,FM,9000.0,100.0,,0.0,,The Lesson,,4908.0,Film Movement,2015-03-04,9000.0,,lesson,Foreign
+362,,MR,9000.0,100.0,,0.0,,An Eye for Beauty,,,Monument Releasing,2015-08-28,9000.0,,aneyeforbeauty,Drama
+363,,Free,8200.0,100.0,,0.0,,The Girl in the Book,,,Freestyle Releasing,2015-12-11,8200.0,,girlinthebook,Drama
+364,,IFC,8000.0,100.0,,0.0,,Every Thing Will be Fine,,,IFC,2015-12-04,8000.0,,everythingwillbefine,Drama
+365,,KL,8000.0,100.0,,0.0,,Steak (R)evolution,,,Kino Lorber,2015-07-17,8000.0,,steakrevolution,Documentary
+366,,Distrib.,7400.0,100.0,,0.0,,On the Way to School,,,Distrib Films,2015-02-06,7400.0,,onthewaytoschool,Documentary
+367,,IFC,6900.0,100.0,,0.0,,Hungry Hearts,,,IFC,2015-06-05,6900.0,,hungryhearts,Drama
+368,,FR,6800.0,100.0,,0.0,,Steve McQueen: The Man & Le Mans,,30203.0,FilmRise,2015-11-13,6800.0,,stevemcqueenmanlemans,Documentary
+369,,KL,6400.0,100.0,,0.0,,Arabian Nights: Volume 2 - The Desolate One,,3358.0,Kino Lorber,2015-12-11,6400.0,,arabiannightsvolume2,Drama
+370,,Distrib.,5600.0,100.0,,0.0,,Chic!,,,Distrib Films,2015-05-01,5600.0,,chic,Comedy
+371,,Trib.,5300.0,100.0,,0.0,,Far from Men,,,Tribeca Film,2015-05-01,5300.0,,farfrommen,Foreign
+372,,IFC,4700.0,100.0,,0.0,,Jenny's Wedding,,,IFC,2015-07-31,4700.0,,jennyswedding,Comedy
+373,,TAFC,4600.0,100.0,,0.0,,Against the Sun,,52.0,The American Film Company,2015-01-23,4600.0,,againstthesun,Adventure
+374,,TFA,4600.0,100.0,,0.0,,Ashby,107764.0,,The Film Arcade,2015-09-25,4600.0,,ashby,Comedy
+375,,KL,4500.0,100.0,,0.0,,Arabian Nights: Volume 3 - The Enchanted One,,2093.0,Kino Lorber,2015-12-18,4500.0,,arabiannightsvol3,Foreign
+376,,Strand,4500.0,100.0,,0.0,,The Summer of Sangaile,,,Strand,2015-11-20,4500.0,,thesummerofsangaile,Drama
+377,,Gold.,3500.0,100.0,,0.0,,That Sugar Film,26702.0,,Samuel Goldwyn,2015-07-31,3500.0,,thatsugarfilm,Documentary
+378,,Strand,3200.0,100.0,,0.0,,Xenia,,,Strand,2015-10-09,3200.0,,xenia,Drama
+379,,Magn.,2200.0,100.0,,0.0,,The Lady in the Car with Glasses and a Gun,33720.0,,Magnolia,2015-12-18,2200.0,,ladyinthecarwithglassesandagun,Thriller
+380,,Magn.,1200.0,100.0,,0.0,,Skin Trade,,,Magnolia,2015-05-08,1200.0,,skintrade,Action
+381,,Magn.,800.0,100.0,,0.0,,REC 4: Apocalypse,158058.0,,Magnolia,2015-01-02,800.0,,rec4,Horror
+382,,BWP,700.0,100.0,,0.0,,It's All So Quiet (Boven is het stil),,,Big World Pictures,2015-01-09,700.0,,itsallsoquiet,Foreign
+383,,KL,700.0,100.0,,0.0,,Tough Being Loved By Jerks,,,Kino Lorber,2015-03-13,700.0,,toughbeinglovedbyjerks,Foreign
+0,190429000.0,BV,406600000.0,35.3,744400000.0,64.7,24366759.0,Captain America: Civil War,16556332.0,53776688.0,Buena Vista,2016-05-06,1151000000.0,,marvel2016,Adventure
+1,235591000.0,BV,341100000.0,33.4,680600000.0,66.6,70127286.0,Zootopia,32218703.0,33903452.0,Buena Vista,2016-03-04,1021700000.0,,disney2016,Animation
+2,150140000.0,BV,360900000.0,38.5,575900000.0,61.5,,The Jungle Book (2016),20348426.0,66133514.0,"April 15, 2016",,936800000.0,,junglebook2015,
+3,95769365.0,WB,330400000.0,37.9,542300000.0,62.1,16531874.0,Batman v Superman: Dawn of Justice,12683409.0,53128158.0,Warner Bros.,2016-03-25,872700000.0,,superman2015,Adventure
+4,,Fox,363100000.0,46.4,419000000.0,53.6,18916494.0,Deadpool,26002884.0,53538139.0,Fox,2016-02-12,782000000.0,,deadpool2016,Action
+5,38052302.0,BV,445700000.0,61.7,276200000.0,38.3,,Finding Dory,9080217.0,,Buena Vista,2016-06-17,721900000.0,,pixar2015,Animation
+6,526848189.0,Sony,3200000.0,0.6,550600000.0,99.4,,The Mermaid (Mei ren yu),,173553.0,Sony / Columbia,2016-02-19,553800000.0,,mermaid2016,Drama
+7,120765095.0,Fox,155000000.0,29.0,378900000.0,71.0,,X-Men: Apocalypse,11154528.0,24287465.0,Fox,2016-05-27,533900000.0,,x-men2016,Adventure
+8,154304371.0,Fox,143500000.0,27.7,375500000.0,72.3,,Kung Fu Panda 3,13905351.0,20321914.0,"January 29, 2016",,519000000.0,,kungfupanda3,
+9,220841090.0,Uni.,47000000.0,10.9,385200000.0,89.1,500000.0,Warcraft,22451000.0,8882000.0,Universal,2016-06-10,432200000.0,,warcraft,Fantasy
+10,381860000.0,FR,32800.0,0.0,385300000.0,100.0,,Monster Hunt,53549.0,,FilmRise,2016-01-22,385300000.0,,monsterhunt,Action
+11,75872971.0,Sony,106400000.0,31.1,235500000.0,68.9,,The Angry Birds Movie,11951761.0,14514655.0,Sony / Columbia,2016-05-20,341800000.0,,angrybirds,Animation
+12,,WB (NL),101100000.0,33.6,200000000.0,66.4,,The Conjuring 2,4350257.0,13361246.0,"June 10, 2016",,301100000.0,,conjuring2,
+13,58780778.0,BV,76300000.0,27.6,200400000.0,72.4,12160944.0,Alice Through the Looking Glass,9945068.0,13888123.0,Buena Vista,2016-05-27,276700000.0,,alice2,Adventure
+14,96509607.0,LG/S,63500000.0,23.8,203700000.0,76.2,,Now You See Me 2,16103345.0,3912308.0,Lionsgate/Summit,2016-06-10,267200000.0,,nowyouseeme2,Thriller
+15,,Uni.,203400000.0,80.0,50900000.0,20.0,,The Secret Life of Pets,,30214014.0,Universal,2016-07-08,254300000.0,,illumination2015,Animation
+16,57977937.0,Par.,80800000.0,35.0,150300000.0,65.0,,Teenage Mutant Ninja Turtles: Out of the Shadows,9498298.0,8691253.0,Paramount,2016-06-03,231100000.0,,tmnt2016,Adventure
+17,52302200.0,Focus,62500000.0,31.9,133200000.0,68.1,,London Has Fallen,2323333.0,15939904.0,Focus Features,2016-03-04,195700000.0,,londonhasfallen,Action
+18,,WB,103400000.0,53.3,90600000.0,46.7,,The Legend of Tarzan,7813612.0,4626064.0,"July 1, 2016",,194000000.0,,tarzan2016,
+19,185402420.0,CL,710000.0,0.4,193000000.0,99.6,,The Monkey King 2 in 3D,,18129.0,China Lion,2016-02-05,193700000.0,,monkeyking2,Adventure
+20,,WB (NL),117600000.0,65.1,63100000.0,34.9,,Central Intelligence,1298000.0,7626000.0,Warner Bros. (New Line),2016-06-17,180600000.0,,centralintelligence,Comedy
+21,1876115.0,LG/S,66200000.0,36.9,113100000.0,63.1,,The Divergent Series: Allegiant,6433174.0,6209290.0,Lionsgate/Summit,2016-03-18,179200000.0,,allegiant,Adventure
+22,,WB (NL),55300000.0,32.2,116600000.0,67.8,,Me Before You,2921778.0,12030747.0,Warner Bros. (New Line),2016-06-03,171900000.0,,mebeforeyou,Romance
+23,16280125.0,Uni.,48000000.0,29.2,116600000.0,70.8,4345439.0,The Huntsman: Winter's War,3771779.0,7665716.0,Universal,2016-04-22,164600000.0,,huntsman,Adventure
+24,124101198.0,WGUSA,2700000.0,1.7,154200000.0,98.3,,Ip Man 3,,115363.0,Well Go USA,2016-01-22,156800000.0,,ipman3,Action
+25,35598525.0,LG/S,31200000.0,21.4,114100000.0,78.6,,Gods of Egypt,11358404.0,1287252.0,Lionsgate/Summit,2016-02-26,145200000.0,,godsofegypt,Adventure
+26,125112232.0,CL,474000.0,0.4,125400000.0,99.6,,Detective Chinatown (Tang ren jie tan an),,8425.0,China Lion,2016-01-15,125800000.0,,detectivechinatown,Foreign
+27,,Uni.,90900000.0,73.1,33400000.0,26.9,,Ride Along 2,646910.0,7998710.0,Universal,2016-01-15,124200000.0,,ridealong2,Comedy
+28,,WB,46800000.0,41.8,65300000.0,58.2,,How to Be Single,2321499.0,8351583.0,Warner Bros.,2016-02-12,112100000.0,,howtobesingle,Comedy
+29,,Sony,34900000.0,31.8,75000000.0,68.2,,The 5th Wave,3593787.0,709949.0,Sony / Columbia,2016-01-22,109900000.0,,5thwave,Action
+30,,Par.,72100000.0,66.6,36200000.0,33.4,,10 Cloverfield Lane,1310014.0,7107143.0,Paramount,2016-03-11,108300000.0,,badrobot2016,Thriller
+31,,Uni.,55300000.0,52.0,51000000.0,48.0,,Neighbors 2: Sorority Rising,670211.0,9249000.0,Universal,2016-05-20,106300000.0,,universalcomedy2016,Comedy
+32,24037389.0,EOne,1300000.0,1.4,96200000.0,98.6,4785971.0,The Little Prince,2953442.0,,Entertainment One,2016-02-12,97600000.0,,thelittleprince,Animation
+33,,LGF,35600000.0,37.8,58500000.0,62.2,,Dirty Grandpa,4398628.0,7473100.0,Lionsgate,2016-01-22,94100000.0,,dirtygrandpa,Comedy
+34,,TriS,41000000.0,45.7,48600000.0,54.3,2954458.0,Money Monster,1250114.0,3883844.0,TriStar,2016-05-13,89500000.0,,moneymonster,Drama
+35,,Uni.,59700000.0,67.1,29200000.0,32.9,,My Big Fat Greek Wedding 2,,5492163.0,Universal,2016-03-25,88900000.0,,mybigfatgreekwedding2,Comedy
+36,,Uni.,63100000.0,80.2,15600000.0,19.8,,The Boss,,2435799.0,Universal,2016-04-08,78600000.0,,michelledarnell,Comedy
+37,,Uni.,71100000.0,90.9,7100000.0,9.1,,The Purge: Election Year,,,Universal,2016-07-01,78200000.0,,purge3,Thriller
+38,,TriS,61700000.0,83.9,11900000.0,16.1,168736.0,Miracles from Heaven,,67579.0,TriStar,2016-03-16,73600000.0,,miraclesfromheaven,Drama
+39,,Par.,52900000.0,76.1,16600000.000000002,23.9,,13 Hours: The Secret Soldiers of Benghazi,295988.0,339443.0,Paramount,2016-01-15,69400000.0,,13hoursthesecretsoldiersofbenghazi,Drama
+40,,Sony,46000000.0,70.7,19100000.0,29.3,,Ghostbusters (2016),,,"July 15, 2016",,65099999.99999999,,ghostbusters2016,
+41,,BV,47400000.0,73.5,17100000.0,26.5,,The BFG,5444369.0,,Buena Vista,2016-07-01,64500000.0,,bfg,Adventure
+42,2545897.0,STX,35800000.0,55.8,28400000.0,44.2,,The Boy (2016),1031891.0,3405286.0,STX Entertainment,2016-01-22,64200000.0,,boy2016,Horror
+43,,Uni.,30100000.0,47.6,33100000.0,52.4,,"Hail, Caesar!",1036386.0,6515787.0,Universal,2016-02-05,63200000.0,,hailcaesar,Comedy
+44,,Sony,51400000.0,86.8,7800000.0,13.2,,The Shallows,2558106.0,,Sony / Columbia,2016-06-24,59200000.0,,theshallows,Horror
+45,,Par.,28800000.0,51.5,27100000.0,48.5,,Zoolander 2,602241.0,5777833.0,Paramount,2016-02-12,56000000.0,,zoolander2,Comedy
+46,,WB (NL),54000000.0,98.2,1000000.0,1.8,,Barbershop: The Next Cut,,135486.0,Warner Bros. (New Line),2016-04-15,55000000.0,,barbershop3,Comedy
+47,,Yash,5200000.0,9.9,48000000.0,90.1,,Sultan,,1358423.0,Yash Raj,2016-07-06,53300000.0,,sultan,Drama
+48,,BV,27600000.0,52.9,24500000.0,47.1,2221112.0,The Finest Hours,3195800.0,356716.0,Buena Vista,2016-01-29,52100000.0,,finesthours,Thriller
+49,970358.0,Fox,15800000.0,34.2,30400000.0,65.8,,Eddie the Eagle,458784.0,12803022.0,Fox,2016-02-26,46200000.0,,eddietheeagle,Drama
+50,,Sony,36900000.0,80.1,9200000.0,19.9,175985.0,Risen,,101241.0,Sony / Columbia,2016-02-19,46100000.0,,risen,Adventure
+51,,A24,25100000.0,62.2,15300000.0,37.8,,The Witch,,1278874.0,A24,2016-02-19,40400000.0,,thewitch,Horror
+52,,Fox,31500000.0,81.7,7000000.0,18.3,,Mike and Dave Need Wedding Dates,1323116.0,,Fox,2016-07-08,38500000.0,,mikeanddave,Comedy
+53,,Focus,26600000.0,70.7,11000000.0,29.3,,The Forest,459548.0,1360774.0,Focus Features,2016-01-08,37600000.0,,forest,Horror
+54,,WB,36100000.0,100.0,,0.0,,The Nice Guys,2484558.0,4913256.0,Warner Bros.,2016-05-20,36100000.0,,niceguys,Comedy
+55,,ORF,32500000.0,100.0,,0.0,,Mother's Day,1162802.0,1289246.0,Open Road Films,2016-04-29,32500000.0,,mothersday,Comedy
+56,,Sony,6900000.0,27.3,18300000.0,72.7,,The Brothers Grimsby,2306082.0,7564877.0,Sony / Columbia,2016-03-11,25200000.0,,grimsby,Comedy
+57,,Par.,23100000.0,100.0,,0.0,,Whiskey Tango Foxtrot,,175508.0,Paramount,2016-03-04,23100000.0,,untitledtinafeycomedy,Comedy
+58,5374145.0,Rela.,,0.0,22400000.0,100.0,,Solace,490446.0,681518.0,Thriller,,22400000.0,,solace,R
+59,,ORF,11700000.0,55.2,9500000.0,44.8,,Fifty Shades of Black,610293.0,118854.0,Open Road Films,2016-01-29,21200000.0,,fiftyshadesofblack,Comedy
+60,,PFR,20800000.0,100.0,,0.0,,God's Not Dead 2,,39109.0,Pure Flix,2016-04-01,20800000.0,,godsnotdead2,Drama
+61,,WB (NL),20600000.0,100.0,,0.0,,Keanu,,,Warner Bros. (New Line),2016-04-29,20600000.0,,keanu,Comedy
+62,,Fox,201000.0,1.0,20200000.0,99.0,,El Clan,12739.0,,Fox,2016-03-18,20400000.0,,elclan,Crime Thriller
+63,,Focus,19100000.0,100.0,,0.0,,Race (2016),13385.0,58077.0,Focus Features,2016-02-19,19100000.0,,race2016,Drama
+64,,LGF,18700000.0,100.0,,0.0,,The Choice,91689.0,198772.0,Lionsgate,2016-02-05,18700000.0,,thechoice,Romance
+65,,BST,18700000.0,100.0,,0.0,,Eye in the Sky,,6534831.0,Bleecker Street,2016-03-11,18700000.0,,eyeinthesky,Drama
+66,,FoxS,,0.0,17900000.0,100.0,,Absolutely Fabulous: The Movie,,14138583.0,Comedy,,17900000.0,,absolutelyfabulousthemovie,R
+67,,W/Dim.,55000.0,0.3,17600000.0,99.7,,Regression,237033.0,329167.0,Weinstein / Dimension,2016-02-05,17700000.0,,regression,Thriller
+68,,FIP,1600000.0,9.1,15900000.0,90.9,,Neerja,,153334.0,FIP,2016-02-19,17500000.0,,neerja,Drama
+69,,LGF,17100000.0,100.0,,0.0,,Norm of the North,765197.0,468854.0,Lionsgate,2016-01-15,17100000.0,,normofthenorth,Animation
+70,,SGem,10900000.0,66.6,5500000.0,33.4,,Pride and Prejudice and Zombies,532267.0,1037601.0,Sony / Screen Gems,2016-02-05,16399999.999999998,,prideprejudicezombies,Comedy
+71,,FIP,2600000.0,16.9,12800000.0,83.1,,Kapoor & Sons - Since 1921,,546533.0,FIP,2016-03-18,15400000.0,,kapoorsons,Comedy
+72,15772274.0,LG/S,14700000.0,100.0,,0.0,,Criminal (2016),728718.0,352892.0,Lionsgate/Summit,2016-04-15,14700000.0,,criminal2015,Action
+73,,RAtt.,14400000.0,100.0,,0.0,,"Hello, My Name is Doris",,,Roadside Attractions,2016-03-11,14400000.0,,"hello,mynameisdoris",Comedy
+74,,STX,9300000.0,64.5,5100000.0,35.5,,Hardcore Henry,2738700.0,285187.0,STX Entertainment,2016-04-08,14300000.0,,hardcorehenry,Action
+75,,Fox,3000000.0,21.2,11200000.0,78.8,,The Other Side of the Door,871103.0,868073.0,Fox,2016-03-04,14200000.0,,othersideofthedoor,Horror
+76,,RAtt.,13500000.0,100.0,,0.0,,Love & Friendship,,2196318.0,Roadside Attractions,2016-05-13,13500000.0,,lovefriendship,Comedy
+77,,ORF,12600000.0,100.0,,0.0,,Triple 9,523156.0,2041254.0,Open Road Films,2016-02-26,12600000.0,,triplenine,Thriller
+78,,HTR,10800000.0,100.0,,0.0,,The Darkness,,144719.0,High Top Releasing,2016-05-13,10800000.0,,bhtilt2016,Horror
+79,,LGF,9700000.0,93.0,731000.0,7.0,,The Perfect Match,,,Lionsgate,2016-03-11,10400000.0,,theperfectmatch,Comedy
+80,,Focus,8800000.0,100.0,,0.0,,Ratchet & Clank,245483.0,518804.0,Focus Features,2016-04-29,8800000.0,,ratchetandclank,Animation
+81,,Wein.,3200000.0,38.5,5100000.0,61.5,,Sing Street,,1647582.0,Weinstein Company,2016-04-15,8400000.0,,singstreet,Musical
+82,,A24,8300000.000000001,100.0,,0.0,,The Lobster (US Release),,2164725.0,"May 13, 2016",,8300000.000000001,,thelobster,
+83,,BG,6800000.0,100.0,,0.0,,The Infiltrator,,,Broad Green Pictures,2016-07-13,6800000.0,,theinfiltrator,Drama
+84,,Focus,6500000.0,100.0,,0.0,,The Young Messiah,,,Focus Features,2016-03-11,6500000.0,,christthelord,Drama
+85,,WB,3700000.0,59.8,2500000.0,40.2,,Midnight Special,,1342203.0,Warner Bros.,2016-03-18,6200000.0,,midnightspecial,Sci-Fi
+86,,Drft.,30200.0,0.7,4600000.0,99.3,,Men & Chicken,,,Drafthouse,2016-04-22,4600000.0,,menchicken,Comedy
+87,,SPC,4200000.0,100.0,,0.0,,The Meddler,,66517.0,Sony Classics,2016-04-22,4200000.0,,themeddler,Comedy
+88,,RAtt.,4200000.0,100.0,,0.0,,A Hologram for the King,446151.0,1028851.0,Roadside Attractions,2016-04-22,4200000.0,,ahologramfortheking,Drama
+89,,Imax,3700000.0,93.3,270000.0,6.7,,A Beautiful Planet,,4388.0,IMAX,2016-04-29,4000000.0,,abeautifulplanet,Documentary
+90,,Drft.,3800000.0,100.0,,0.0,,Where to Invade Next,,121948.0,Drafthouse,2016-02-12,3800000.0,,wheretoinvadenext,Documentary
+91,,IFC,3800000.0,100.0,,0.0,,The Man Who Knew Infinity,,734716.0,IFC,2016-04-29,3800000.0,,themanwhoknewinfinity,Drama
+92,,A24,3700000.0,100.0,,0.0,,Swiss Army Man,325917.0,,A24,2016-06-24,3700000.0,,swissarmyman,Comedy
+93,,Par.,3400000.0,100.0,,0.0,,Everybody Wants Some!!,55980.0,470261.0,Paramount,2016-03-30,3400000.0,,smoker,Comedy
+94,,A24,3200000.0,100.0,,0.0,,Green Room,,207595.0,"April 15, 2016",,3200000.0,,greenroom,
+95,,PNT,3100000.0,100.0,,0.0,,Compadres,,,Pantelion,2016-04-22,3100000.0,,compadres,Action
+96,,SPC,3100000.0,100.0,,0.0,,Maggie's Plan,,133240.0,"May 20, 2016",,3100000.0,,maggiesplan,
+97,,RAtt.,2800000.0,100.0,,0.0,,Our Kind of Traitor,133782.0,1566420.0,Roadside Attractions,2016-07-01,2800000.0,,ourkindoftraitor,Drama
+98,,SPC,2600000.0,100.0,,0.0,,Miles Ahead,,242629.0,Sony Classics,2016-04-01,2600000.0,,milesahead,Drama
+99,,EOne,,0.0,2400000.0,100.0,,The Program (2016),,578026.0,"March 18, 2016",,2400000.0,,theprogram2015,
+100,,FoxS,2000000.0,100.0,,0.0,,A Bigger Splash,246496.0,1700350.0,Fox Searchlight,2016-05-04,2000000.0,,abiggersplash,Drama
+101,,FoxS,2000000.0,100.0,,0.0,,Demolition,211360.0,386646.0,"April 8, 2016",,2000000.0,,demolition,
+102,,LGF,1700000.0,100.0,,0.0,,Busco Novio Para Mi Mujer,,,Lionsgate,2016-02-19,1700000.0,,busconovioparamimujer,Comedy
+103,,IFC,5000.0,0.3,1700000.0,99.7,,A Perfect Day,,,IFC,2016-01-15,1700000.0,,aperfectday,Drama
+104,,Yash,1700000.0,100.0,,0.0,,Fan,,994702.0,Yash Raj,2016-04-15,1700000.0,,fan16,Comedy
+105,,SPC,1600000.0,100.0,,0.0,,I Saw the Light,,105146.0,"March 25, 2016",,1600000.0,,isawthelight,
+106,,IFC,1600000.0,100.0,,0.0,,Weiner,,21479.0,IFC,2016-05-20,1600000.0,,weiner,Documentary
+107,,Wein.,1500000.0,100.0,,0.0,,Jane Got a Gun,108868.0,45311.0,Weinstein Company,2016-01-29,1500000.0,,janegotagun,Western
+108,,Orch.,1500000.0,100.0,,0.0,,Hunt for the Wilderpeople,,,The Orchard,2016-06-24,1500000.0,,huntforwilderpeople,Adventure
+109,,Osci.,1300000.0,100.0,,0.0,,Embrace of the Serpent,,59026.0,"February 17, 2016",,1300000.0,,embraceoftheserpent,
+110,,Eros,1300000.0,100.0,,0.0,,Housefull 3,,105588.0,Eros,2016-06-03,1300000.0,,housefull3,Comedy
+111,,BG,1300000.0,100.0,,0.0,,The Neon Demon,,164547.0,Broad Green Pictures,2016-06-24,1300000.0,,theneondemon,Horror
+112,,RAtt.,1300000.0,100.0,,0.0,,Genius,315667.0,,"June 10, 2016",,1300000.0,,genius,
+113,,Osci.,47300.0,4.2,1100000.0,95.8,,Ma ma,28357.0,8806.0,"May 20, 2016",,1100000.0,,mama2015,
+114,,Relbig.,1100000.0,100.0,,0.0,,Wazir,,119178.0,Reliance Big Pictures,2016-01-08,1100000.0,,wazir,Thriller
+115,,Men.,1100000.0,100.0,,0.0,,Dough,,,Menemsha,2016-02-12,1100000.0,,dough,Comedy
+116,,BST,1100000.0,100.0,,0.0,,Elvis & Nixon,54556.0,77812.0,Bleecker Street,2016-04-22,1100000.0,,elvisnixon,Drama
+117,,Gaatri,898000.0,100.0,,0.0,,Gentleman,,,Gaatri Media,2016-06-17,898000.0,,gentleman,Drama
+118,,Eros,858000.0,100.0,,0.0,,Ki & Ka,,166462.0,Eros,2016-04-01,858000.0,,kiandka,Comedy
+119,57098935.0,CL,780000.0,100.0,,0.0,,Chongqing Hot Pot,,,China Lion,2016-04-01,780000.0,,chongqinghotpot,Thriller
+120,,WGUSA,751000.0,100.0,,0.0,,The Wailing (Goksung),,,Well Go USA,2016-05-20,751000.0,,wailing,Drama
+121,,IFC,612000.0,100.0,,0.0,,City of Gold,,,IFC,2016-03-11,612000.0,,cityofgold,Documentary
+122,,BG,566000.0,100.0,,0.0,,Knight of Cups,,14899.0,Broad Green Pictures,2016-03-04,566000.0,,knightofcups,Drama
+123,,UTV,529000.0,100.0,,0.0,,Fitoor,,191993.0,UTV Communications,2016-02-12,529000.0,,fitoor,Romance
+124,,Magn.,527000.0,100.0,,0.0,,The First Monday in May,,,Magnolia,2016-04-15,527000.0,,thefirstmondayinmay,Documentary
+125,,Cohen,497000.0,100.0,,0.0,,Marguerite,17608.0,59836.0,Cohen Media Group,2016-03-11,497000.0,,marguerite,Drama
+126,,FUN,491000.0,100.0,,0.0,46863971.0,The Boy and the Beast,,,FUNimation Films,2016-03-04,491000.0,,theboyandthebeast,Animation
+127,,GK,453000.0,100.0,,0.0,,Only Yesterday (2016 re-release),,5044.0,GKIDS,2016-01-01,453000.0,,onlyyesterday2016,Animation
+128,,UTV,438000.0,100.0,,0.0,,Baaghi,,141868.0,UTV Communications,2016-04-29,438000.0,,baaghi,Comedy
+129,,BST,418000.0,100.0,,0.0,,Captain Fantastic,,,Bleecker Street,2016-07-08,418000.0,,captainfantastic,Drama
+130,,MBox,409000.0,100.0,,0.0,,The Innocents,,,Music Box Films,2016-07-01,409000.0,,theinnocents,Drama
+131,,Magn.,394000.0,100.0,,0.0,,Tickled,,,Magnolia,2016-06-17,394000.0,,tickled,Documentary
+132,,LGF,359000.0,100.0,,0.0,,Cafe Society,,,"July 15, 2016",,359000.0,,cafesociety,
+133,85751060.0,WGUSA,354000.0,100.0,,0.0,,Cold War 2,,14209.0,Well Go USA,2016-07-08,354000.0,,coldwar2,Action
+134,,Rel.,332000.0,100.0,,0.0,,Te3n,,51208.0,Reliance Films,2016-06-10,332000.0,,te3n,Crime Thriller
+135,,Magn.,324000.0,100.0,,0.0,,High-Rise,645580.0,2913572.0,Magnolia,2016-05-13,324000.0,,highrise,Action
+136,,MBox,307000.0,100.0,,0.0,,Francofonia,64762.0,,Music Box Films,2016-04-01,307000.0,,francofonia,Documentary
+137,,GK,295000.0,100.0,,0.0,,April and the Extraordinary World,,,GKIDS,2016-03-25,295000.0,,aprilandtheextraordinaryworld,Animation
+138,,Magn.,269000.0,100.0,,0.0,,My Golden Days,,,Magnolia,2016-03-18,269000.0,,mygoldendays,Drama
+139,,IFC,240000.0,100.0,,0.0,,Dheepan,4867.0,197182.0,"May 6, 2016",,240000.0,,dheepan,
+140,,Drft.,232000.0,100.0,,0.0,,The Invitation,,,Drafthouse,2016-04-08,232000.0,,theinvitation,Horror
+141,,UTV,204000.0,100.0,,0.0,,Kaptaan,,29318.0,UTV Communications,2016-05-20,204000.0,,kaptaan,Comedy
+142,,Magn.,178000.0,100.0,,0.0,,Viva,,,Magnolia,2016-04-29,178000.0,,viva,Drama
+143,,Magn.,177000.0,100.0,,0.0,,The Wave,113054.0,,Magnolia,2016-03-04,177000.0,,thewave,Action
+144,,Orch.,164000.0,100.0,,0.0,,Louder than Bombs,50609.0,34204.0,The Orchard,2016-04-08,164000.0,,louderthanbombs,Drama
+145,,Cohen,149000.0,100.0,,0.0,,Rams (Hrútar),,38978.0,Cohen Media Group,2016-02-03,149000.0,,rams,Drama
+146,,Magn.,145000.0,100.0,,0.0,,Sunset Song,11847.0,715769.0,Magnolia,2016-05-13,145000.0,,sunsetsong,Drama
+147,,SM,135000.0,100.0,,0.0,,Tumbledown,,,Starz Media,2016-02-05,135000.0,,tumbledown,Comedy
+148,,PM&E,126000.0,100.0,,0.0,,Spirits' Homecoming,,,Pan Media & Entertainment,2016-03-11,126000.0,,spiritshomecoming,Drama
+149,,Magn.,123000.0,100.0,,0.0,,A War,,26256.0,Magnolia,2016-02-12,123000.0,,awar,Drama
+150,14968027.0,WGUSA,116000.0,100.0,,0.0,,Three,,,Well Go USA,2016-06-24,116000.0,,three,Action
+151,,KL,111000.0,100.0,,0.0,,The Measure of a Man,,20487.0,Kino Lorber,2016-04-15,111000.0,,measureofaman,Drama
+152,,BWP,105000.0,100.0,,0.0,,Aferim!,,,Big World Pictures,2016-01-22,105000.0,,aferim,Comedy
+153,,IFC,102000.0,100.0,,0.0,,Tale of Tales,446128.0,440825.0,IFC,2016-04-22,102000.0,,taleoftales,Fantasy
+154,,Strand,99000.0,100.0,,0.0,,Our Last Tango,,,Strand,2016-04-15,99000.0,,ourlasttango,Foreign
+155,1446261.0,CL,92400.0,100.0,,0.0,,"New York, New York (2016)",,,China Lion,2016-04-15,92400.0,,newyorknewyork16,Drama
+156,12101384.0,CL,89300.0,100.0,,0.0,,No One's Life Is Easy: So I Married an Anti-Fan,,,China Lion,2016-07-01,89300.0,,noonelifeeasy,Comedy
+157,4253776.0,KL,82200.0,100.0,,0.0,,Mountains May Depart,,,Kino Lorber,2016-02-12,82200.0,,mountainsmaydepart,Drama
+158,,Cohen,80800.0,100.0,,0.0,,Les cowboys,,,Cohen Media Group,2016-06-24,80800.0,,lescowboys,Drama
+159,,KL,77900.0,100.0,,0.0,2562291.0,Sweet Bean,,,Kino Lorber,2016-03-18,77900.0,,sweetbean,Drama
+160,,UTV,76900.0,100.0,,0.0,,Saala Khadoos,,16936.0,UTV Communications,2016-01-29,76900.0,,saalakhadoos,Drama
+161,,CJ,71800.0,100.0,,0.0,,Sweet 20,,,CJ Entertainment,2016-03-11,71800.0,,sweet20,Comedy
+162,,SPC,71700.0,100.0,,0.0,12944572.0,Our Little Sister,,68160.0,Sony Classics,2016-07-08,71700.0,,ourlittlesister,Drama
+163,,BG,67500.0,100.0,,0.0,,The Dark Horse,,,"April 1, 2016",,67500.0,,thedarkhorse,
+164,,CJ,67100.0,100.0,,0.0,,Phantom Detective,,,CJ Entertainment,2016-05-11,67100.0,,phantomdetective,Comedy
+165,,Rialto,66100.0,100.0,,0.0,,Ran (2016 re-issue),,18692.0,Rialto,2016-02-26,66100.0,,ran2016,Drama
+166,,CJ,59400.0,100.0,,0.0,,Time Renegades,,,CJ Entertainment,2016-04-15,59400.0,,timerenegades,Fantasy
+167,,CJ,56200.0,100.0,,0.0,,DONGJU: The Portrait of a Poet,,,CJ Entertainment,2016-04-01,56200.0,,dongju,Drama
+168,,Osci.,55800.0,100.0,,0.0,,L'attesa,,2012.0,Oscilloscope Pictures,2016-04-29,55800.0,,lattesa,Drama
+169,,W/Dim.,55000.0,100.0,,0.0,,Clown,,,Weinstein / Dimension,2016-06-17,55000.0,,clown2016,Horror
+170,,Cohen,54200.0,100.0,,0.0,,Diary of a Chambermaid,,,Cohen Media Group,2016-06-10,54200.0,,diaryofachambermaid,Drama
+171,,Pala.,53400.0,100.0,,0.0,,High Strung (2016),,,Paladin,2016-04-08,53400.0,,highstrung2016,Drama
+172,,MBox,52800.0,100.0,,0.0,,The Club,,13127.0,Music Box Films,2016-02-05,52800.0,,theclub,Drama
+173,,Strand,52000.0,100.0,,0.0,,Cemetery of Splendor,,5440.0,Strand,2016-03-04,52000.0,,cemeteryofsplendor,Drama
+174,,Distrib.,50300.0,100.0,,0.0,,In the Shadow of Women,,,Distrib Films,2016-01-15,50300.0,,intheshadowofwomen,Drama
+175,,IFC,50000.0,100.0,,0.0,,Pele: Birth of a Legend,,,IFC,2016-05-13,50000.0,,pele,Drama
+176,,SDS,48500.0,100.0,,0.0,,The Treasure,,,Sundance Selects,2016-01-08,48500.0,,thetreasure16,Comedy
+177,,Eros,43400.0,100.0,,0.0,,Mastizaade,,25180.0,Eros,2016-01-29,43400.0,,mastizaade,Comedy
+178,,FRun,29500.0,76.4,9100.0,23.6,,Troublemakers: The Story of Land Art,,9109.0,First Run,2016-01-08,38600.0,,troublemakers,Documentary
+179,,KL,34800.0,100.0,,0.0,,Songs My Brothers Taught Me,,,Kino Lorber,2016-03-02,34800.0,,songsmybrotherstaughtme,Drama
+180,,FCW,34700.0,100.0,,0.0,,Mr. Right,,,Focus World,2016-04-08,34700.0,,mrright16,Comedy
+181,,Strand,34300.0,100.0,,0.0,,Eisenstein in Guanajuato,,4359.0,Strand,2016-02-05,34300.0,,eisensteininguanajuato,Comedy
+182,,Scre.,32000.0,100.0,,0.0,,"Rio, I Love You",,,Screen Media,2016-04-15,32000.0,,rioiloveyou,Drama
+183,,Strand,29400.0,100.0,,0.0,,From Afar,,2715.0,Strand,2016-06-08,29400.0,,fromafar,Drama
+184,,Strand,28600.0,100.0,,0.0,,Valley of Love,,,Strand,2016-03-25,28600.0,,valleyoflove,Drama
+185,,Electric,27100.0,100.0,,0.0,,Blackway,4675.0,,Electric Entertainment,2016-06-10,27100.0,,blackway,Thriller
+186,,Cohen,26100.0,100.0,,0.0,,Standing Tall (La tete haute),,,Cohen Media Group,2016-04-01,26100.0,,standingtall,Drama
+187,,Strand,25400.0,100.0,,0.0,,Chevalier,,,Strand,2016-05-27,25400.0,,chevalier,Drama
+188,8072889.0,CL,25400.0,100.0,,0.0,,The New Year's Eve of Old Lee,,,China Lion,2016-02-12,25400.0,,newyearseveofoldlee,Comedy
+189,,MBox,24900.0,100.0,,0.0,,A Monster with a Thousand Heads,,,Music Box Films,2016-05-11,24900.0,,monsterthousandheads,Drama
+190,,FR,24100.0,100.0,,0.0,,Lolo,,,FilmRise,2016-03-11,24100.0,,lolo,Comedy
+191,,Eros,22100.0,100.0,,0.0,,Sanam Teri Kasam,,45615.0,Eros,2016-02-05,22100.0,,sanamterikasam,Romance
+192,,FCW,21300.0,100.0,,0.0,,Term Life,,,Focus World,2016-04-29,21300.0,,termlife,Drama
+193,,FRun,20900.0,100.0,,0.0,,Last Cab to Darwin,,,First Run,2016-06-10,20900.0,,lastcabtodarwin,Comedy
+194,,Grasshopper,17700.0,100.0,,0.0,,"Right Now, Wrong Then",,,Grasshopper Film,2016-06-24,17700.0,,rightnowwrongthen,Drama
+195,,Scre.,15700.0,100.0,,0.0,,Colonia,98172.0,,Screen Media,2016-04-15,15700.0,,colonia,Thriller
+196,,A24,13200.0,100.0,,0.0,,Adderall Diaries,,,A24,2016-04-15,13200.0,,adderalldiaries,Drama
+197,,Magn.,12500.0,100.0,,0.0,,The Ones Below,,29799.0,Magnolia,2016-05-27,12500.0,,theonesbelow,Thriller
+198,,KL,10300.0,100.0,,0.0,,Serial Killer 1,,,Kino Lorber,2016-05-13,10300.0,,serialkiller1,Drama
+199,,A24,9200.0,100.0,,0.0,,Equals,230559.0,,A24,2016-07-15,9200.0,,equals,Drama
+200,,Magn.,8900.0,100.0,,0.0,,The Last King,,,Magnolia,2016-06-17,8900.0,,thelastking,Adventure
+201,,A24,8300.0,100.0,,0.0,,Mojave,,349.0,A24,2016-01-22,8300.0,,mojave,Thriller
+202,,FM,5300.0,100.0,,0.0,,The Other Side,,,Film Movement,2016-05-20,5300.0,,theotherside,Documentary
+203,,FCW,4600.0,100.0,,0.0,,Search Party,,,Focus World,2016-05-13,4600.0,,searchparty,Comedy
+204,,Distrib.,800.0,100.0,,0.0,,Next Time I'll Aim for the Heart,,,Distrib Films,2016-04-01,800.0,,nexttimeillaimfortheheart,Drama
